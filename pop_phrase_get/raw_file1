@@ -1,0 +1,2718 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+  <meta charset="utf-8">
+  <meta name="author" content="太空小孩">
+  <meta name="renderer" content="webkit">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="theme-color" content="#ffffff">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
+  <meta http-equiv="mobile-agent" content="format=html5; url=http://spacekid.me/">
+  <title>网络用语词典 – 太空小孩</title>
+  <!-- Bootstrap 4.0.0 Alpha 6 -->
+  <link rel="stylesheet" href="//cdn.bootcss.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css">
+  <!-- FancyBox 3.2.5 -->
+  <link rel="stylesheet" href="//cdn.bootcss.com/fancybox/3.2.5/jquery.fancybox.min.css">
+  <!-- Animate.css 3.5.2 -->
+  <link rel="stylesheet" href="//cdn.bootcss.com/animate.css/3.5.2/animate.min.css">
+  <!-- SpaceKid Theme - Copyright 2015-2017 太空小孩 -->
+  <link rel="stylesheet" href="/assets/styles/style.css">
+  <link rel="canonical" href="/internet-slangs/">
+  <link rel="alternate" type="application/rss+xml" title="太空小孩" href="/feed.xml">
+  <link rel="shortcut icon" href="/favicon.ico">
+  <!-- jQuery 1.11.3 -->
+  <script src="//cdn.bootcss.com/jquery/1.11.3/jquery.min.js"></script>
+  <!-- HTML5 Shiv 3.7.3 -->
+  <!--[if lt IE 9]>
+    <script src="//cdn.bootcss.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <![endif]-->
+</head>
+
+  <body ontouchstart="">
+    <header id="navigation-wrapper">
+  <nav class="navbar navbar-fixed-top navbar-toggleable-sm navbar-inverse">
+    <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbar-nav" aria-controls="navbar-nav" aria-expanded="false" aria-label="Toggle Navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <a class="navbar-brand" href="/">太空小孩</a>
+    <div id="navbar-nav" class="collapse navbar-collapse">
+      <ul class="nav navbar-nav">
+        
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/internet-slangs/">网络用语词典</a>
+            </li>
+          
+        
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/fanfou-toolkit/">饭否工具箱</a>
+            </li>
+          
+        
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/events-of-the-year/">年度重要事件</a>
+            </li>
+          
+        
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/kaomoji/">颜文字</a>
+            </li>
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        <li class="nav-item dropdown">
+          <a id="navbar-dropdownmenu" class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">更多</a>
+          <div class="dropdown-menu" aria-labelledby="navbar-dropdownmenu">
+            <a class="dropdown-item" href="https://www.zhihu.com/people/spacekid" target="_blank">知乎 @太空小孩</a>
+            <a class="dropdown-item" href="https://weibo.com/kevindeng" target="_blank">微博 @Kevin</a>
+            <a class="dropdown-item" href="https://fanfou.com/anegie" target="_blank">饭否 @太空小孩</a>
+            <a class="dropdown-item" href="https://www.douban.com/people/dksnow2002" target="_blank">豆瓣 @太空小孩</a>
+            <a class="dropdown-item" href="https://twitter.com/anegie" target="_blank">Twitter @anegie</a>
+            <a class="dropdown-item" href="https://github.com/ispacekid" target="_blank">GitHub @ispacekid</a>
+            <a class="dropdown-item" href="https://zhuanlan.zhihu.com/spacekid" target="_blank">知乎专栏 – 太空小孩</a>
+            <a class="dropdown-item" href="http://zhuanlan.zhihu.com/quote" target="_blank">知乎专栏 – 太空语录</a>
+            <div class="dropdown-divider"></div>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            <a class="dropdown-item" href="/categories/">分类</a>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            <a class="dropdown-item" href="/tags/">标签</a>
+            
+            
+            
+            
+            
+            
+            <a class="dropdown-item" href="/feed.xml">RSS 订阅</a>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </nav>
+</header>
+
+    <div id="content-wrapper">
+      <style type="text/css">
+  #intro-wrapper {
+    background-image:
+      linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .25)),
+      url('//ohp0uzlic.qnssl.com/site/intro-images/internet-slangs.jpg');
+  }
+</style>
+<header id="intro-wrapper">
+  <div class="container">
+    <div class="intro-heading">
+      <h1 class="intro-title">网络用语词典</h1>
+      <span class="intro-meta">太空小孩</span>
+    </div>
+  </div>
+</header>
+<article class="container post">
+  <div class="entry-content">
+    <!-- Content -->
+    <style type="text/css">
+  #internet-slangs a,
+  #internet-slangs a:hover,
+  #internet-slangs a:active,
+  #internet-slangs a:visited {
+    text-decoration: none;
+  }
+  #internet-slangs a.anchor-link {
+    color: inherit;
+    border-bottom: 1px solid;
+  }
+  #internet-slangs a[data-toggle="collapse"]:before {
+    content: "↑ 收起";
+  }
+  #internet-slangs a[data-toggle="collapse"].collapsed:before {
+    content: "↓ 展开";
+  }
+  #internet-slangs blockquote {
+    margin-bottom: 0;
+  }
+  #internet-slangs hr {
+    margin: .5em 0;
+    border-color: rgba(0, 0, 0, .05);
+  }
+  #internet-slangs span.badge-muted {
+    background-color: #eceff1;
+    color: #b0bec5;
+  }
+  #internet-slangs tr .headerSortUp,
+  #internet-slangs tr .headerSortDown {
+    background-color: #f5f5f5;
+  }
+  #internet-slangs th,
+  #internet-slangs td {
+    font-size: .8125rem;
+  }
+  #internet-slangs th.popular:before {
+    content: "★";
+    padding-right: .25em;
+    color: #ffdd57;
+  }
+  #internet-slangs video {
+    max-height: 24rem;
+  }
+
+  @media only screen and (max-width: 47.9em) {
+    #internet-slangs,
+    #internet-slangs thead,
+    #internet-slangs tbody,
+    #internet-slangs th,
+    #internet-slangs td,
+    #internet-slangs tr {
+      display: block;
+    }
+    #internet-slangs {
+      border: none !important;
+    }
+    #internet-slangs thead tr {
+      position: absolute;
+      top: -9999px;
+      left: -9999px;
+    }
+    #internet-slangs tr {
+      margin-bottom: 1rem;
+    }
+    #internet-slangs th,
+    #internet-slangs td:first-child {
+      background: #eceeef;
+    }
+    #internet-slangs th,
+    #internet-slangs td:not(:last-child) {
+      border-bottom: none !important;
+    }
+    #internet-slangs td:before {
+      display: block;
+      font-weight: 600;
+      white-space: nowrap;
+    }
+    #internet-slangs td:nth-of-type(1):before { content: "读音"; }
+    #internet-slangs td:nth-of-type(2):before { content: "释义用法"; }
+    #internet-slangs td:nth-of-type(3):before { content: "语源"; }
+    #internet-slangs td:nth-of-type(4):before { content: "收录时间"; }
+  }
+</style>
+
+<p class="text-muted">
+  <small>
+    本表收录的是中国大陆地区常见的网络用语和流行句式。最后更新于 2016 年 12 月 2 日，当前共收录 <span id="row-count">...</span> 条目。
+  </small>
+</p>
+
+<table id="internet-slangs" class="table table-bordered fixed tablesorter">
+  <thead class="thead-default">
+    <tr>
+      <th style="width: 10%;">网络用语</th>
+      <th style="width: 10%;">读音</th>
+      <th style="width: 60%;">释义用法</th>
+      <th style="width: 10%;">语源</th>
+      <th style="width: 10%;">收录时间</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr id="阿基巴巴">
+      <th scope="row">阿基巴巴</th>
+      <td>ā jī bā bā</td>
+      <td>
+        指 Angelababy（杨颖）。出自一段名为《湖南大妈神理论：关键要长得好》的短视频 <sup><a tabindex="0" role="button" data-toggle="popover" data-trigger="focus" data-container="body" data-placement="bottom" data-html="true" data-content="剪辑版：<a href='http://www.miaopai.com/show/pgCSXXHXDSa2qpA4LWnBdQ__.htm' target='_blank'>湖南大妈神理论：关键要长得好</a>, 秒拍, 2015-08-24；完整版：<a href='http://www.miaopai.com/show/akI1PM-7xhR3WV6XMiwR5A__.htm' target='_blank'>长相决定命运，大妈神理论教育儿子（完整版神级弹幕）</a>, 秒拍, 2015-08-24">[1]</a></sup>，该视频中，一位长沙大妈用长沙方言教育儿子择偶不察，说道：
+        <blockquote>
+          <p>……关键要长得好，这样的丑妹子妈妈是不会认的，你要认她你就别跟妈妈过。……你看电视里面那些赵薇啦、范冰冰啦，还有那个什么<strong class="emphasis">阿基巴巴</strong>（此处被其儿子打断：「Angelababy!」），噢噢，不管什么贝贝巴巴，我跟你讲明的，关键是要长得好！</p>
+        </blockquote>
+        由于该段视频在微博、秒拍上被大量转发，「阿基巴巴」这个称呼也随之流行。
+        <br>
+        <a class="collapsed" tabindex="0" role="button" data-toggle="collapse" data-target="#阿基巴巴-collapse" aria-controls="阿基巴巴-collapse" aria-expanded="false">视频</a>
+        <div id="阿基巴巴-collapse" class="collapse" role="tabpanel" aria-labelledby="阿基巴巴-collapse">
+          <div class="card card-block">
+            <video width="100%" src="//ohp0uzlic.qnssl.com/is/videos/ajbb.mp4" controls="controls"></video>
+          </div>
+        </div>
+      </td>
+      <td>某长沙大妈</td>
+      <td>2015-08</td>
+    </tr>
+    <tr id="啊痛悟蜡">
+      <th scope="row">啊痛悟蜡</th>
+      <td>a tòng wù là</td>
+      <td>
+        <span class="badge badge-primary">缩写</span>「<strong class="emphasis">啊</strong>多么<strong class="emphasis">痛</strong>的领<strong class="emphasis">悟</strong>（<strong class="emphasis">蜡</strong>烛）」的缩写。
+        <hr/>
+        出自辛晓琪歌曲《领悟》的歌词，词中的「蜡烛」是一个表情符号。亦有被解释为「啊多么痛的领悟你为什么用蜡烛滴我」。
+      </td>
+      <td>辛晓琪《领悟》（李宗盛作词）</td>
+      <td>2013-06</td>
+    </tr>
+    <tr id="安静的美男子">
+      <th scope="row">安静的美男子</th>
+      <td>ān jìng de měi nán zǐ</td>
+      <td>
+        出自万合天宜出品的网络视频《万万没想到》第二季第一集中唐僧（叫兽易小星饰演）的台词或口头禅：
+        <blockquote>
+          <p>我还是想安静地当一个美男子。</p>
+        </blockquote>
+      </td>
+      <td>《万万没想到》</td>
+      <td>2014-07</td>
+    </tr>
+    <tr id="安利">
+      <th scope="row" class="popular">安利</th>
+      <td>ān lì</td>
+      <td>
+        「安利」（Amway）是一家美国多层次直销公司。由于在中国拥有庞大而素质良莠不齐的底层营销人员，其惯用推销用语「你知道安利吗」逐渐被大众娱乐化，用于吐槽安利洗脑、传销一般的推销方式。而后「安利」一次逐渐演变成动词为大众所用，其含义就是「推销」。
+      </td>
+      <td></td>
+      <td>2013-11</td>
+    </tr>
+    <tr id="凹凸">
+      <th scope="row">凹凸</th>
+      <td>āo tū</td>
+      <td>
+        <span class="badge badge-danger">谐音</span>英语「out」的音译。
+        <hr/>
+        表达「过时」的意思。「凹凸曼」（out man）指认识或传播「过时」信息的人。
+      </td>
+      <td></td>
+      <td>2011-04</td>
+    </tr>
+    <tr id="逼格">
+      <th scope="row" class="popular">逼格</th>
+      <td>bī gé</td>
+      <td>
+        指装逼的能力与档次。逼格伴随着装逼的出现而出现，是衡量一个事物装逼级别的终极标准，并给装逼这一抽象行为提供了一个可以定量和定性研究的依据。「逼格粉」：指为了显示自己有品位、有追求、有格调于是关注某人或事物的粉丝，自诩有品位、不盲从，实际上并非出于对其真诚的支持和喜爱。
+      </td>
+      <td></td>
+      <td>2013-12</td>
+    </tr>
+    <tr id="逼两拳">
+      <th scope="row">逼两拳</th>
+      <td>bī liǎng quán</td>
+      <td>
+        戒赌吧黑话。源于百度戒赌吧某女性网友担任小吧主后通过搞代理的方式赚取吧友的钱财，导致无数吧友入坑，且利用权力大肆封人删帖。在大吧主无作为的情况下，某吧友发帖称「某某小吧进来」，「我上来给你逼上就是一拳」。该帖被众吧友以「我两拳」、「我三拳」的格式成「队形」大量回复导致「逼两拳」逐渐成为一个热词。
+        <hr/>
+        <span class="badge badge-muted">参阅</span>「<a class="anchor-link" href="#三五瓶">三五瓶</a>」。
+      </td>
+      <td>百度贴吧（戒赌吧）</td>
+      <td>2016-08</td>
+    </tr>
+    <tr id="不动戳大">
+      <th scope="row">不动戳大</th>
+      <td>bù dòng chuō dà</td>
+      <td>
+        <span class="badge badge-primary">缩写</span>「动图<strong class="emphasis">不动</strong>的话，<strong class="emphasis">戳</strong>开看<strong class="emphasis">大</strong>图」的缩写。
+        <hr/>
+        由于微博对动图（GIF）的限制，尺寸超过 450×450 像素的动图将被压缩处理导致无法自动播放，这个时候需要用户手动点击图片查看大图才能正常播放。
+      </td>
+      <td>微博</td>
+      <td>2012-08</td>
+    </tr>
+    <tr id="不要不要的">
+      <th scope="row">不要不要的</th>
+      <td>bù yào bù yào de</td>
+      <td>
+        程度副词，一般位置在被修饰的形容词或者副词之后，以「╳ 得不要不要的」形式出现，相当于「很」、「非常」的夸张用法。
+      </td>
+      <td></td>
+      <td>2015-02</td>
+    </tr>
+    <tr id="不服来辩">
+      <th scope="row">不服来辩</th>
+      <td>bù fú lái biàn</td>
+      <td>
+        <span class="badge badge-primary">缩写</span>「<strong class="emphasis">不服</strong>气就<strong class="emphasis">来辩</strong>论」的缩写。
+        <hr/>
+        是一句带有挑衅意味的语句，用以强化观点的语气、渴望被关注。多用于贴吧、论坛，有时也是钓鱼帖或求战帖的常用词汇。
+      </td>
+      <td></td>
+      <td>2014-11</td>
+    </tr>
+    <tr id="不哭站撸">
+      <th scope="row">不哭站撸</th>
+      <td>bù kū zhàn lū</td>
+      <td>
+        <span class="badge badge-primary">缩写</span>「屌丝<strong class="emphasis">不哭</strong>，<strong class="emphasis">站</strong>起来<strong class="emphasis">撸</strong>」的缩写，所传达的是一种坚强不服输的生活态度。
+      </td>
+      <td>百度贴吧（李毅吧）</td>
+      <td>2013-06</td>
+    </tr>
+    <tr id="不明觉厉">
+      <th scope="row" class="popular">
+        不明觉厉
+        <hr/>
+        虽不明，但觉厉
+      </th>
+      <td>bù míng jué lì</td>
+      <td>
+        <span class="badge badge-primary">缩写</span>「虽然<strong class="emphasis">不明</strong>白你在说什么，但是听起来感<strong class="emphasis">觉</strong>很<strong class="emphasis">厉</strong>害的样子」的缩写。
+        <hr/>
+        通常用于表达对技术高超者的崇拜（褒义），也用于吐槽对方过于深奥不知所云的言行举止（贬义）。出自电影《食神》中鹅头（李兆基饰）的台词：「明就唔系好明嘞，不过听落就好有计呀！」（「明白倒不是太明白，不过听上去就很厉害！」）。有网友将其英文版本引申为：「Not quite understand, but that was amazing.」
+        <hr/>
+        <span class="badge badge-default">亦作</span>「虽不明，但觉厉」。
+        <br>
+        <span class="badge badge-default">衍生</span>「虽不明，但觉厉，直膝箭」：「虽然不明白你在说什么，但是听起来感觉很厉害的样子，直到膝盖中了一箭」的缩写，「直膝箭」表示转折和否定，英文版本是「Then I took an arrow in the knee.」
+      </td>
+      <td>
+        周星驰《食神》
+        <br>
+        《上古卷轴 5：天际》
+      </td>
+      <td>2013-01</td>
+    </tr>
+    <tr id="不信抬头看，苍天饶过谁">
+      <th scope="row">不信抬头看，苍天饶过谁</th>
+      <td>bù xìn tái tóu kàn, cāng tiān ráo guò shuí</td>
+      <td>
+        出自 1994 年的台湾电视剧《七侠五义之怒犯天条》，剧中孙兴饰演的白玉堂说了这么一句话。而后在 2007 年的电视剧《江湖夜雨十年灯》中，扬子饰演的白玉堂讲这句话时用力过度，被网友截图转发，逐渐成为网络用语。其原句是：
+        <blockquote>
+          <p>善恶终有报，天道好轮回。不信抬头看，苍天饶过谁！</p>
+        </blockquote>
+      </td>
+      <td>电视剧《江湖夜雨十年灯》</td>
+      <td>2014-05</td>
+    </tr>
+    <tr id="不约而同">
+      <th scope="row">不约而同</th>
+      <td>bù yuē ér tóng</td>
+      <td>
+        <span class="badge badge-primary">缩写</span>「因太久<strong class="emphasis">不</strong>被异性<strong class="emphasis">约而</strong>变成<strong class="emphasis">同</strong>性恋」的缩写。
+        <hr/>
+        常常被用作嘲讽宅男，或者宅男自嘲。
+      </td>
+      <td></td>
+      <td>2013-07</td>
+    </tr>
+    <tr id="次奥">
+      <th scope="row">次奥</th>
+      <td>cì ao</td>
+      <td>
+        <span class="badge badge-danger">谐音</span>连读后是脏话「操」（「肏」）的雅化谐音。
+        <hr/>
+        多用于粗俗俚语被屏蔽的场合（类似于通过「擦」、「艹」、「氧化钙」等方式来表达「操」，或者类似于通过「Shoot」来表达「Shit」），或者主动雅化脏话以委婉地表达不愉快的情绪。
+      </td>
+      <td></td>
+      <td>2012-08</td>
+    </tr>
+    <tr id="茶叶蛋">
+      <th scope="row">茶叶蛋</th>
+      <td>chá yè dàn</td>
+      <td>
+        在台湾的综艺节目《美食 in 象》中，一位叫高志斌的专家（台湾劳务部门辅导讲师）在回应一位女嘉宾称「我看见大陆没有人在卖茶叶蛋」时表示：「那个（叫）茶叶蛋的东西，事实上他消费不起……（大陆）人均所得是很低的。」然后他又提到，「（有人）在深圳的火车站吃泡面，引起五六十个人围观，大家觉得这个东西很香。」对此，大陆网民纷纷戏称自己是「吃得起高贵冷艳茶叶蛋的土豪权贵」。
+      </td>
+      <td>中國電視《美食 in 象》</td>
+      <td>2014-03</td>
+    </tr>
+    <tr id="抄技百">
+      <th scope="row">抄技百</th>
+      <td>chāo jì bǎi</td>
+      <td><span class="badge badge-primary">缩写</span>「没仔细看技能，去<strong class="emphasis">抄技</strong>能一<strong class="emphasis">百</strong>遍」的缩写。</td>
+      <td></td>
+      <td>2013-01</td>
+    </tr>
+    <tr id="吃枣药丸">
+      <th scope="row">吃枣药丸</th>
+      <td>chī zǎo yào wán</td>
+      <td>
+        <span class="badge badge-danger">谐音</span>「迟早要完」的谐音。
+        <hr/>
+        用于讽刺一些网站、软件或游戏产品由于涉及政治敏感信息，或由于自身其他原因可能对其生存造成严重影响。「药丸」也写作一个药丸的 emoji（💊）。
+      </td>
+      <td></td>
+      <td>2015-09</td>
+    </tr>
+    <tr id="打酱油">
+      <th scope="row">打酱油</th>
+      <td>dǎ jiàng yóu</td>
+      <td>
+        2008 年初，广州电视台记者廖丽怡在街头随机采访市民 <sup><a tabindex="0" role="button" data-toggle="popover" data-trigger="focus" data-container="body" data-placement="bottom" data-html="true" data-content="原始视频已佚，链接为 <a href='http://you.joy.cn/video/175917.htm' target='_blank'>http://you.joy.cn/video/175917.htm</a>。">[1]</a></sup>，询问民众对陈冠希艳照门（香港艺人裸照事件）的看法。一名男性路人回答 <sup><a tabindex="0" role="button" data-toggle="popover" data-trigger="focus" data-container="body" data-placement="bottom" data-html="true" data-content="<a href='http://news.163.com/08/0513/03/4BPTM2U800011229.html' target='_blank'>男子接受采访称「我出来买酱油的」走红网络</a>, 网易, 2008-05-13">[2]</a></sup> 称：
+        <blockquote>
+          <p>关我屌事，我出来<strong class="emphasis">买酱油</strong>的。</p>
+        </blockquote>
+        这句话被网友截图转发，形成 PS 热潮，并使得「打酱油」、「酱油男」、「酱油族」等网络用语广泛传播。而「打酱油」一词的含义，也由其传统含义演化出了新的内涵：表面上传达了一种对公众话题的漠不关心、「与我无关」的含义，进而体现出对现实的无奈。「打酱油」成为了一种通过明哲保身的行为，在体制内进行「非暴力不合作」行为的符号。
+      </td>
+      <td>广州电视台</td>
+      <td>2008-05</td>
+    </tr>
+    <tr id="大雾">
+      <th scope="row">大雾</th>
+      <td>dà wù</td>
+      <td>
+        <span class="badge badge-danger">谐音</span> 「大误」的谐音，同时也取其义。
+        <hr/>
+        以括号「（大雾）」的形式备注在某句话之后，来委婉地表明解读这句话的实际含义时，要故意曲解其表面含义。也写作「大雾向」。
+      </td>
+      <td></td>
+      <td>2011-10</td>
+    </tr>
+    <tr id="单身狗">
+      <th scope="row" class="popular">单身狗</th>
+      <td>dān shēn gǒu</td>
+      <td>
+        「单身人士」之意，「光棍」的另一种称法。「狗」一字在传统意义的中国语言环境中形容到人身上是带有侮辱性和贬低性的，因此「单身狗」带有诙谐的自贬、自嘲的意味。
+      </td>
+      <td></td>
+      <td>2011-01</td>
+    </tr>
+    <tr id="单手打字">
+      <th scope="row">单手打字</th>
+      <td>dān shǒu dǎ zì</td>
+      <td>
+        指一手打字一手自慰，借以表明对视频、帖子等内容福利多的一种赞美。
+      </td>
+      <td></td>
+      <td>2013-06</td>
+    </tr>
+    <tr id="地命海心">
+      <th scope="row">地命海心</th>
+      <td>dì mìng hǎi xīn</td>
+      <td>
+        <span class="badge badge-primary">缩写</span>「吃<strong class="emphasis">地</strong>沟油的<strong class="emphasis">命</strong>，操中南<strong class="emphasis">海</strong>的<strong class="emphasis">心</strong>」的缩写。
+      </td>
+      <td></td>
+      <td>2013-11</td>
+    </tr>
+    <tr id="地图炮">
+      <th scope="row">地图炮</th>
+      <td>dì tú pào</td>
+      <td>
+        指因某个群体里一部分人的问题，而将整个群体都定性为有这种问题的人的行为。
+      </td>
+      <td>《超级机器人大战》（<span lang="ja" xml:lang="ja">スーパーロボット大戦</span>）</td>
+      <td>2013-09</td>
+    </tr>
+    <tr id="点赞党">
+      <th scope="row">点赞党</th>
+      <td>diǎn zàn dǎng</td>
+      <td>
+        「点赞」这一操作起源于 Facebook，最初指点击一个竖起的大拇指，表示对某条内容的欣赏或认同，类似「好评」。点赞党是指对于好友在社交网站和朋友圈发布的内容只「点赞」，不评论也不转发的一群人，他们点的不是「赞」，是「朕已阅」。
+      </td>
+      <td></td>
+      <td>2013-09</td>
+    </tr>
+    <tr id="碉堡了">
+      <th scope="row" class="popular">碉堡了</th>
+      <td>diāo bǎo le</td>
+      <td>
+        <span class="badge badge-danger">谐音</span>「屌（diǎo）爆了」的雅化谐音。
+        <hr/>
+        用以表达某人或某事物「非常惊人」「很厉害」等含义，亦可表达「震惊了」「悲剧了」等几种意思。由周杰伦口头禅进化而来，后在百度贴吧（李毅吧）被发扬光大。
+        <hr/>
+        <span class="badge badge-default">衍生</span>「弱爆了」：「碉堡了」的反义词。
+      </td>
+      <td>周杰伦、百度贴吧（李毅吧）</td>
+      <td>2011-12</td>
+    </tr>
+    <tr id="丁日">
+      <th scope="row">丁日</th>
+      <td>dīng rì</td>
+      <td>
+        即 Justin Bieber（贾斯汀·比伯）首字母缩写 JB 的汉字象形，一般用于指代贾斯汀·比伯，也有人指代别的东西。因微博脱口秀译者 <a href="http://weibo.com/ichthy" target="_blank">@谷大白话</a> 在其译制的视频中使用而流行。
+      </td>
+      <td>微博（<a href="http://weibo.com/ichthy" target="_blank">@谷大白话</a>）</td>
+      <td>2013-06</td>
+    </tr>
+    <tr id="定体问">
+      <th scope="row">定体问</th>
+      <td>dìng tǐ wèn</td>
+      <td>
+        <span class="badge badge-primary">缩写</span>「这一<strong class="emphasis">定</strong是<strong class="emphasis">体</strong>制<strong class="emphasis">问</strong>题」的缩写。
+        <hr/>
+        用于贬损那些不顾实际情况总是批判中国现行体制的做法，由对公知的常见用语进行模仿而成。
+        <hr/>
+        <span class="badge badge-default">衍生</span>「定体问，我陷思，这国怎，亏总民」：「这一定是体制问题，我不禁陷入了沉思，这个国家到底怎么了？吃亏的总是人民」的缩写。
+        <hr/>
+        <span class="badge badge-muted">参阅</span>「<a class="anchor-link" href="#体亏屁思">体亏屁思</a>」。
+      </td>
+      <td></td>
+      <td>2013-06</td>
+    </tr>
+    <tr id="都是套路">
+      <th scope="row">都是套路</th>
+      <td>dōu shì tào lù</td>
+      <td>
+        来源于一套「都是套路」的表情包。现在多用于感叹一些不为人知的技巧或潜规则。
+      </td>
+      <td></td>
+      <td>2015-09</td>
+    </tr>
+    <tr id="逗比">
+      <th scope="row">逗比</th>
+      <td>dòu bī</td>
+      <td>
+        也写作「逗逼」，指智商堪忧到惹人发笑的傻货，具有强烈的贬义。
+      </td>
+      <td></td>
+      <td>2013-12</td>
+    </tr>
+    <tr id="毒德大学，焦锐奶化">
+      <th scope="row">毒德大学，焦锐奶化</th>
+      <td>dú dé dà xué, jiāo ruì nǎi huà</td>
+      <td>
+        <span class="badge badge-primary">缩写</span>「<strong class="emphasis">毒</strong>！<strong class="emphasis">德</strong>味！<strong class="emphasis">大</strong>师！<strong class="emphasis">学</strong>习了！<strong class="emphasis">焦</strong>内如刀割般<strong class="emphasis">锐</strong>利！焦外如<strong class="emphasis">奶</strong>油般<strong class="emphasis">化</strong>开！」的缩写。
+        <hr/>
+        流行于国内摄影圈，用以讽刺摄影论坛中充满毫无营养的、机械式回帖的现状。毒，就是中毒，讽刺摄影新手所普遍认为的好的器材决定照片质量的观点；德味，讽刺德国相机镜头的味道（用德系相机拍得的照片在红色和蓝色上显得比较浓郁，焦外色彩过渡自然）之说法。焦内如刀割般锐利，指的是出图的锐度；焦外如奶油般化开，指的是色散、紫边、光斑、二线性、色彩过渡等参数。
+      </td>
+      <td></td>
+      <td>2013-06</td>
+    </tr>
+    <tr id="反射弧">
+      <th scope="row">反射弧</th>
+      <td>fǎn shè hú</td>
+      <td>
+        「反射弧」原指身体内负责传送神经脉冲的，由内脏及其他自主神经所支配的结构。现在通常以「反射弧长」的形式出现，意思是讽刺神经脉冲传送慢、反应迟钝。
+      </td>
+      <td></td>
+      <td>2013-06</td>
+    </tr>
+    <tr id="飞蝗芜湖">
+      <th scope="row">飞蝗芜湖</th>
+      <td>fēi huáng wù hù</td>
+      <td>
+        <span class="badge badge-danger">谐音</span>「非黄勿护」的谐音。
+        <hr/>
+        意思指虽然标题看上去很黄，但内容实际上是很温馨很感人的，请吧主不要删。在百度贴吧以及各论坛一度有广泛应用。
+      </td>
+      <td>百度贴吧（李毅吧）</td>
+      <td>2012-01</td>
+    </tr>
+    <tr id="分分钟">
+      <th scope="row">分分钟</th>
+      <td>fēn fēn zhōng</td>
+      <td>
+        表示速度很快、即将发生，或随时都可以做到的意思，表明说话者一种胸有成竹的心态。英文为「a fraction of a minute」。
+      </td>
+      <td>粤语，一说江西上饶话</td>
+      <td>2013-06</td>
+    </tr>
+    <tr id="俯卧撑">
+      <th scope="row">俯卧撑</th>
+      <td>fǔ wò chēng</td>
+      <td>
+        出自 2008 年 7 月 1 日，贵州省政府新闻办、省公安厅、黔南布依族苗族自治州在瓮安事件新闻发布会上，对该事件死者的死因解释 <sup><a tabindex="0" role="button" data-toggle="popover" data-trigger="focus" data-container="body" data-placement="bottom" data-html="true" data-content="<a href='http://www.gz.xinhuanet.com/zbpd/20080701/' target='_blank'>贵州省政府新闻办公室举行瓮安 6·28 事件新闻发布会</a>, 新华网, 2008-07-01">[1]</a></sup>。对于当年 6 月 28 日发生的「瓮安 6·28 严重打砸抢烧突发性事件」，新闻发言人王兴正将死亡原因解释为：
+        <blockquote>
+          <p>……当陈走后，刘见李树芬心情平静下来，便开始在桥上做<strong class="emphasis">俯卧撑</strong>。当刘做到第三个俯卧撑的时候，听到李树芬大声说「我走了」，便跳下河中……</p>
+          <footer>王兴正（贵州省公安厅政治部主任、省公安厅新闻发言人）</footer>
+        </blockquote>
+        由于在新闻发布会前有传言称死者李树芬生前曾遭人强奸，并在遇害后被抛尸河中，有部分网友质疑新闻发布会的「俯卧撑」解释太过离奇，由此产生一系列揶揄讽刺。新闻发布会当晚，一位名为「流芳苑主」的网友在天涯社区中发表了一页名为《吃面要吃雪菜肉丝，运动要做俯卧撑！身体倍儿棒！》的帖子；几小时后，「俯卧撑」一词便已将当时的其他主要论坛（百度贴吧、猫扑、西祠胡同）的头条占据。「俯卧撑」一词，有了「对某事不便或不愿发表意见」的含义；它的走红，反映出政府信息披露的欠缺，也暴露出官民间已经出现的信任危机。同年 7 月 3 日，「俯卧撑」一词逐渐遭到屏蔽，也使得它成为中国大陆第一个被屏蔽的网络用语。
+      </td>
+      <td>王兴正（贵州省公安厅政治部主任、省公安厅新闻发言人）、天涯社区</td>
+      <td>2008-07</td>
+    </tr>
+    <tr id="高大上">
+      <th scope="row" class="popular">高大上</th>
+      <td>gāo dà shàng</td>
+      <td>
+        <span class="badge badge-primary">缩写</span>「<strong class="emphasis">高</strong>端<strong class="emphasis">大</strong>气<strong class="emphasis">上</strong>档次」的缩写。
+        <hr/>
+        出自《武林外传》第三十九回，钱掌柜让李大嘴做月饼，说：
+        <blockquote>
+          <p>既要高端大气上档次，又要犹抱琵琶半遮面。</p>
+        </blockquote>
+        这句话后被设计师们发扬光大，通过「高端大气上档次，低调奢华有内涵，奔放洋气有深度，简约时尚国际范」来描述客户以及上司们对其的设计要求。现在引申开来形容对事物的赞叹甚至崇拜。
+        <blockquote>
+          <p>高端大气上档次，低调奢华有内涵。奔放洋气有深度，简约时尚国际范。低端粗俗甩节操，土憋矫情无下限。装模作样绿茶婊，外猛内柔女汉子。卖萌嘟嘴剪刀手，忧郁深沉无所谓。狂拽帅气吊炸天，冷艳高贵接地气。时尚亮丽小清新，可爱乡村非主流。贵族王朝杀马特，提莫团战必须死。</p>
+          <footer>《高大上之歌》</footer>
+        </blockquote>
+      </td>
+      <td>《武林外传》</td>
+      <td>2013-11</td>
+    </tr>
+    <tr id="给跪">
+      <th scope="row" class="popular">给跪</th>
+      <td>gěi guì</td>
+      <td>
+        <span class="badge badge-primary">缩写</span>「<strong class="emphasis">给</strong>你<strong class="emphasis">跪</strong>下了」或「<strong class="emphasis">给</strong>楼主<strong class="emphasis">跪</strong>下了」的缩写。
+        <hr/>
+        用于贬义时表示对楼主的神奇弱智理论惊呆了，已经完全没法跟楼主交流了。用于褒义时表示对见到的内容惊奇钦佩。「膝盖已碎」：指由于多次「给跪」导致髌骨已经跪碎了。
+      </td>
+      <td></td>
+      <td>2014-12</td>
+    </tr>
+    <tr id="根本把持不住">
+      <th scope="row">根本把持不住</th>
+      <td>gēn běn bǎ chí bù zhù</td>
+      <td>
+        出自由微博 @壹号战神Franck 使用「新闻相机」app 改编自东方卫视《东方新闻》电视截图的一张图，图片背景为《魔兽世界》的画面，配有字幕为：「好多孩子看到这个根本把持不住」。最初多用于嘲讽一些常见，但被一些所谓的专家夸大其词的事物。后来也指对令人惊叹的事物表示称赞。
+      </td>
+      <td>微博（@壹号战神Franck）</td>
+      <td>2013-10</td>
+    </tr>
+    <tr id="梗">
+      <th scope="row" class="popular">梗</th>
+      <td>gěng</td>
+      <td>
+        原写作「哏（gén）」，是相声中的的一种术语，指接话的切入点（如笑点、漏洞、典故等）。
+      </td>
+      <td></td>
+      <td>2013-06</td>
+    </tr>
+    <tr id="工口">
+      <th scope="row">工口</th>
+      <td>gōng kǒu</td>
+      <td>
+        出自日语「<span lang="ja" xml:lang="ja">エロ</span>」（ero），意为「色情」。这个词源于英语 erotic，再往上追寻是古希腊语 <span lang="el" xml:lang="el">Έρως</span>，在希腊神话中是司性爱之原始神厄洛斯。
+      </td>
+      <td>日语</td>
+      <td>2014-03</td>
+    </tr>
+    <tr id="狗带">
+      <th scope="row" class="popular">狗带</th>
+      <td>gǒu dài</td>
+      <td>
+        <span class="badge badge-danger">谐音</span>英语「go die」的谐音。
+        <hr/>
+        出自韩国组合 EXO 中国前成员黄子韬在 2014 年 7 月 27 日 EXO 一巡长沙站演唱会上表演的一段即兴 Rap（说唱）<sup><a tabindex="0" role="button" data-toggle="popover" data-trigger="focus" data-container="body" data-placement="bottom" data-html="true" data-content="<a href='https://www.youtube.com/watch?v=596PzKRdSQg' target='_blank'>https://www.youtube.com/watch?v=596PzKRdSQg</a>, Youtube, 2014-07-30">[1]</a></sup>。由于黄子韬英语的特殊口音和强调，当场使得其他 EXO 成员笑得打滚。歌词原文是：
+        <blockquote>
+          <p>Listen my freestyle. 有人骂我，制作谣言，想要我生气失去自信。呵呵。Don't be naïve. This is my life, I am fine. 我不会就这样轻易地 <strong class="emphasis">go die</strong>, huh? Your life is loser! So don t waste your time on making rumor!</p>
+        </blockquote>
+      </td>
+      <td>黄子韬</td>
+      <td>2015-08</td>
+    </tr>
+    <tr id="滚粗">
+      <th scope="row" class="popular">滚粗</th>
+      <td>gǔn cū</td>
+      <td>
+        <span class="badge badge-danger">谐音</span>「滚出」的雅化谐音。
+        <hr/>
+        叫人离开本帖的委婉说法。「负分滚粗」：由微博 <a href="http://www.weibo.com/nimui" target="_blank">留几手</a> 传扬，常用于对他人相貌、行为等评价时使用，指的是若给评价打分一定是负分，滚出去好走不送。
+      </td>
+      <td>百度贴吧（李毅吧）</td>
+      <td>2012-01</td>
+    </tr>
+    <tr id="果取关">
+      <th scope="row">果取关</th>
+      <td>guǒ qǔ guān</td>
+      <td>
+        <span class="badge badge-primary">缩写</span>「<strong class="emphasis">果</strong>断<strong class="emphasis">取</strong>消<strong class="emphasis">关</strong>注」的缩写。
+        <hr/>
+        指微博果断取消关注、微信果断退群、朋友圈果断屏蔽等动作。网络绝交的「终极武器」，看似充满挑衅，实际没半点意义和冲击力。
+      </td>
+      <td></td>
+      <td>2013-07</td>
+    </tr>
+    <tr id="壕无人性">
+      <th scope="row">壕无人性</th>
+      <td>háo wú rén xìng</td>
+      <td>
+        由成语「毫无人性」加「土豪」二字的缩写形式「壕」组合而来。用以形容那些被认为富有的人大手笔地购买或消费，然后丧尽天良地在网上「晒」、炫耀的行为。
+      </td>
+      <td></td>
+      <td>2014-12</td>
+    </tr>
+    <tr id="呵呵">
+      <th scope="row" class="popular">呵呵</th>
+      <td>hē hē</td>
+      <td>
+        在互联网时代以前，作为拟声词的「呵呵」与「哈哈」「嘿嘿」并没有本质区别。但互联网普及后早期社区生态中，被频繁使用的「呵呵」一词在网络聊天中产生了新的含义。自 2008 年起，「呵呵」一词逐渐被人认为包含着敷衍、无语、漠视的态度，以至于发展成说「呵呵」就意味着高傲、冷漠，甚至会被人认为「傻」、「土」，产生「聊天止于呵呵」的说法。2009 年 6 月 22 日，饭否 <a href="http://fanfou.com/dawaiwai" target="_blank">@女流氓.exe</a> 发表了如下一条内容 <sup><a tabindex="0" role="button" data-toggle="popover" data-trigger="focus" data-container="body" data-placement="bottom" data-html="true" data-content="<a href='http://fanfou.com/statuses/M6PED2-j5T8' target='_blank'>http://fanfou.com/statuses/M6PED2-j5T8</a>, 饭否, 2009-06-22">[1]</a></sup>：
+        <blockquote>
+          <p>很多时候，我在键盘上敲出「呵呵」的时候我不仅没有真的在笑，而且我心里边儿想的还是去你 MLGB 的！</p>
+        </blockquote>
+        这条段子在饭否、贴吧、论坛被大量传播，「呵呵」作为高冷用词的梗得到了更为广泛的普及，多次被入选「最伤人」词语排行榜。
+      </td>
+      <td></td>
+      <td>2008-03</td>
+    </tr>
+    <tr id="呵呵哒">
+      <th scope="row" class="popular">呵呵哒</th>
+      <td>hē hē da</td>
+      <td>
+        「呵呵哒」是使用高冷词「<a class="anchor-link" href="#呵呵">呵呵</a>」创作出来的、与「么么哒」反义的一个词，既表达了高冷的态度，又不失卖萌的风范。被同样创作出来的词语还有「萌萌哒」、「操操哒」、「棒棒哒」等。
+        <hr/>
+        <span class="badge badge-muted">参阅</span>「<a class="anchor-link" href="#呵呵">呵呵</a>」。
+      </td>
+      <td></td>
+      <td>2014-10</td>
+    </tr>
+    <tr id="何弃疗">
+      <th scope="row">
+        何弃疗
+        <hr/>
+        为弃疗
+      </th>
+      <td>hé qì liáo</td>
+      <td>
+        <span class="badge badge-primary">缩写</span>「为<strong class="emphasis">何</strong>放<strong class="emphasis">弃</strong>治<strong class="emphasis">疗</strong>」的缩写，用于表达对楼主放弃治疗（智商等）的惋惜之情。「治疗」一词源自杨永信使用电击疗法治疗「网瘾患者」事件。
+        <hr/>
+        <span class="badge badge-default">亦作</span>「为弃疗」。
+      </td>
+      <td>杨永信</td>
+      <td>2013-09</td>
+    </tr>
+    <tr id="很好很强大">
+      <th scope="row">很好很强大</th>
+      <td>hěn hǎo hěn qiáng dà</td>
+      <td>
+        出自《魔兽世界》游戏论坛。2007 年 6 月，该论坛的用户最早使用这个词汇用以讽刺抗议《魔兽世界》代理商第九城市将游戏中的亡灵种族角色加上「肉身」的行为 <sup><a tabindex="0" role="button" data-toggle="popover" data-trigger="focus" data-container="body" data-placement="bottom" data-html="true" data-content="<a href='http://games.sina.com.cn/o/n/2007-06-28/1347203365.shtml' target='_blank'>和谐社会：魔兽世界升级 露骨亡灵长肉</a>, 新浪网, 2007-06-28">[1]</a></sup>。同月，《魔兽世界》汉化组在其访谈中引用了这个词汇，而这段访谈被《魔兽世界》官方工作人员登载于《魔兽世界》官方网站首页，形成了大规模流行。「很好很强大」的流行，也造就了「很 ╳ 很 ╳╳」这个句式的流行。2008 年 2 月 22 日，中国互联网主管部门领导彭波在《中国互联网视听节目服务自律公约》签署致辞中连用 3 个了「很 ╳ 很 ╳╳」句式 <sup><a tabindex="0" role="button" data-toggle="popover" data-trigger="focus" data-container="body" data-placement="bottom" data-html="true" data-content="<a href='http://news.xinhuanet.com/newmedia/2008-02/24/content_7659980.htm' target='_blank'>国新办网络新闻局：中国互联网将很好很强大</a>, 新华网, 2008-02-24">[2]</a></sup>：
+        <blockquote>
+          <p>明天中国的互联网，一定会很美很绿色、很棒很健康、很好很强大！</p>
+          <footer>彭波（中国国务院新闻办公室网络局副局长）</footer>
+        </blockquote>
+      </td>
+      <td>《魔兽世界》</td>
+      <td>2007-06</td>
+    </tr>
+    <tr id="很黄很暴力">
+      <th scope="row">很黄很暴力</th>
+      <td>hěn huáng hěn bào lì</td>
+      <td>
+        2007 年 12 月 27 日，中国中央电视台《新闻联播》播出了一则标题为「净化网络视听环境迫在眉睫」的新闻 <sup><a tabindex="0" role="button" data-toggle="popover" data-trigger="focus" data-container="body" data-placement="bottom" data-html="true" data-content="<a href='http://www.youtube.com/watch?v=mspuiqlycJA' target='_blank'>http://www.youtube.com/watch?v=mspuiqlycJA</a>, Youtube, 2008-01-07">[1]</a></sup>。新闻中，一名在北京市海淀区的名为张殊凡的小学生使用了一个「很 ╳ 很 ╳╳」的句式说道：
+        <blockquote>
+          <p>上次我查资料，突然蹦出一个窗口，<strong class="emphasis">很黄很暴力</strong>，我赶快给关了。</p>
+        </blockquote>
+        由于「很黄很暴力」这句话与一些实际情况以及张殊凡的年龄并不相符，有部分网友怀疑这句话是中央电视台记者刻意让张殊凡口述的。这则新闻被猫扑论坛网友率先截图上传，2008 年 1 月 1 日，猫扑网友「今夜累欲死」发布《召唤人肉搜索——张殊凡——很黄很暴力》<sup><a tabindex="0" role="button" data-toggle="popover" data-trigger="focus" data-container="body" data-placement="bottom" data-html="true" data-content="原帖已佚，存档见：<a href='http://eus.googlecode.com/svn/trunk/iBak/%E5%AE%9E%E6%97%B6/%E5%BE%88%E9%BB%84%E5%BE%88%E6%9A%B4%E5%8A%9B/' target='_blank'>链接</a>。">[2]</a></sup> 一文，号召对张殊凡进行「人肉搜索」，使该事件得到广泛关注。大量的网友使用「很黄很暴力」这个句式进行了恶搞，一夜之间，关于恶搞张殊凡的图片、视频、文字泛滥成灾。「很黄很暴力」事件在当时引起了媒体和社会的强烈反响，网络管控、未成年人隐私权、网络暴力、网络用语等领域受到广泛关注。
+        <hr/>
+        <span class="badge badge-muted">参阅</span>「<a class="anchor-link" href="#很好很强大">很好很强大</a>」。
+      </td>
+      <td>中国中央电视台《新闻联播》、张殊凡</td>
+      <td>2008-01</td>
+    </tr>
+    <tr id="很傻很天真">
+      <th scope="row">很傻很天真</th>
+      <td>hěn shǎ hěn tiān zhēn</td>
+      <td>
+        2008 年 2 月 11 日，陈冠希艳照门（香港艺人裸照事件）女主角之一的钟欣桐（阿娇）在英皇集团记者会上就艳照门事件发表回应 <sup><a tabindex="0" role="button" data-toggle="popover" data-trigger="focus" data-container="body" data-placement="bottom" data-html="true" data-content="<a href='http://ent.news.cn/2008-02/11/content_7587753.htm' target='_blank'>「艳照门」阿娇坦然露面 今后积极面对人生</a>, 新华网, 2008-02-11">[1]</a></sup> 称：
+        <blockquote>
+          <p>大家好！新年快乐！这件事对我和身边的人造成很大伤害，我以前<strong class="emphasis">太天真太傻</strong>，但是现在已经长大了，谢谢公司，谢谢家里人，谢谢我的朋友，不离不弃对我的支持！对于社会大众的影响，我也深感歉意。在未来的日子，我会继续努力，也多谢大家的关心，也谢谢一直在支持我的歌迷！</p>
+        </blockquote>
+        受当时「很 ╳ 很 ╳╳」句式流行的影响，媒体在报道此回应时使用了「阿娇为艳照门公开道歉，称以前很傻很天真」这个标题 <sup><a tabindex="0" role="button" data-toggle="popover" data-trigger="focus" data-container="body" data-placement="bottom" data-html="true" data-content="<a href='http://www.ycwb.com/misc/2008-02/12/content_1787501.htm' target='_blank'>阿娇为艳照门公开道歉 称以前很傻很天真</a>, 金羊网, 2008-02-12">[2]</a></sup>，使「很傻很天真」成为了一句网络流行用语。
+        <hr/>
+        <span class="badge badge-muted">参阅</span>「<a class="anchor-link" href="#很好很强大">很好很强大</a>」、「<a class="anchor-link" href="#很黄很暴力">很黄很暴力</a>」。
+      </td>
+      <td>钟欣桐（阿娇）</td>
+      <td>2008-02</td>
+    </tr>
+    <tr id="花式虐狗">
+      <th scope="row">花式虐狗</th>
+      <td>huā shì nüè gǒu</td>
+      <td>
+        「通过各种各样秀恩爱的方式虐待单身狗」的意思。主要是用于形容非单身人士通过有表现力的秀恩爱的方式公开刺激、打击非单身人士的做法。
+        <hr/>
+        <span class="badge badge-muted">参阅</span>「<a class="anchor-link" href="#单身狗">单身狗</a>」。
+      </td>
+      <td></td>
+      <td>2014-09</td>
+    </tr>
+    <tr id="毁段子">
+      <th scope="row">毁段子</th>
+      <td>huǐ duàn zi</td>
+      <td>
+        指用简短犀利的方式讽刺泛滥的鸡汤段子，言简意赅地粉碎一个个唯美励志的故事，是吐槽流的一个分支。专职毁殴子的人擅长各种「狗尾续貂」，不谈历史，不谈爱情，蔑视一切小清新，秘诀就是在各种完美而感人的故事后面加上残酷的结局。他们不一定憎恨段子，只希望借此在智慧和格调上与很傻很天真的普通网民拉开距离。如：「如果你给我的和给别人的是一样的，我就不要了。」「不买票就下车！」知名的毁段子专家有：马伯庸、斯库里、所长别开枪是我、使徒子、李铁根……
+      </td>
+      <td></td>
+      <td>2014-08</td>
+    </tr>
+    <tr id="活久见">
+      <th scope="row">活久见</th>
+      <td>huó jiǔ jiàn</td>
+      <td>
+        <span class="badge badge-primary">缩写</span>「<strong class="emphasis">活</strong>的时间<strong class="emphasis">久</strong>什么事都可能<strong class="emphasis">见</strong>到」的缩写。
+        <hr/>
+        ➊ 含义与「活这么久第一次见到」接近，在遇见新鲜、稀有事物时，表达惊奇的感叹。➋ 含义与「林子大了什么鸟都有」接近，有见得多了，索然无味、见怪不怪的意思。
+      </td>
+      <td></td>
+      <td>2015-06</td>
+    </tr>
+    <tr id="魂淡">
+      <th scope="row">魂淡</th>
+      <td>hún dàn</td>
+      <td>
+        <span class="badge badge-danger">谐音</span>「混蛋」的雅化谐音。
+        <hr/>
+        有调侃、娇嗔之意。
+      </td>
+      <td></td>
+      <td>2013-09</td>
+    </tr>
+    <tr id="活撸辈">
+      <th scope="row">活撸辈</th>
+      <td>huó lū bèi</td>
+      <td>
+        <span class="badge badge-primary">缩写</span>「<strong class="emphasis">活</strong>该<strong class="emphasis">撸</strong>一<strong class="emphasis">辈</strong>子」的缩写。
+      </td>
+      <td></td>
+      <td>2013-06</td>
+    </tr>
+    <tr id="火钳刘明">
+      <th scope="row">火钳刘明</th>
+      <td>huǒ qián liú míng</td>
+      <td>
+        「火前留名」的异体，通常在一些鬼畜、福利或者具有争议的作品刚出来时使用，表示看好这作品会火的可能性而在前排留名。「万火留」：「万一火了呢，先留名」的缩写。「山前刘明」：「删前留名」的异体。
+      </td>
+      <td>AcFun</td>
+      <td>2012-06</td>
+    </tr>
+    <tr id="键盘侠">
+      <th scope="row">键盘侠</th>
+      <td>jiàn pán xiá</td>
+      <td>
+        用以形容那些往往现实中胆小怕事，却通过打字在网上大放厥词的人。这些人常常以一种自命不凡的上帝视角评头论足、针砭时弊，但其结论却往往不得要领。出自 2014 年 6 月 4 日《人民日报》一篇名为《激励见义勇为不能靠「键盘侠」》（<a href="http://opinion.people.com.cn/n/2014/0604/c1003-25099312.html" target="_blank">链接</a>）的评论。
+      </td>
+      <td>《人民日报》</td>
+      <td>2014-06</td>
+    </tr>
+    <tr id="接盘侠">
+      <th scope="row">接盘侠</th>
+      <td>jiē pán xiá</td>
+      <td>
+        很多女孩年轻时候喜欢浪漫，有情调，会玩的帅哥，随随便便就发生关系，对于也喜欢自己，但是老实，不善言辞，长相普通的踏实男孩却不屑一顾。但是过了几年，年纪大了玩不动了要嫁人了，就想起那些老实踏实会过日子的好男人了。对于接纳这种女人的男人，统称为「接盘侠」， 意为别人抛出的盘，他接下来。接盘侠是漫画《接盘侠》的男二号，原名赵率教，原本是上海毕加索广告公司的一个低级职员，在被黑木耳女神甩过之后在客厅里看新闻联播时发生突变，有了做备胎的超能力。在《接盘侠》最后一集中，黑木耳女神在怀有高帅富博士的骨肉的情况下，嫁给了接盘侠，剧终。
+        <hr/>
+        <span class="badge badge-muted">参阅</span>「<a class="anchor-link" href="#喜当爹">喜当爹</a>」。
+      </td>
+      <td>漫画《接盘侠》</td>
+      <td>2012-08</td>
+    </tr>
+    <tr id="经拿滚">
+      <th scope="row">经拿滚</th>
+      <td>jīng ná gǔn</td>
+      <td>
+        <span class="badge badge-primary">缩写</span>「<strong class="emphasis">经</strong>验<strong class="emphasis">拿</strong>好赶紧<strong class="emphasis">滚</strong>蛋」的缩写。
+        <hr/>
+        用于贬损那些通过大量发送毫无营养的水贴或标题党等手段赚取百度贴吧经验值的人。
+      </td>
+      <td>百度贴吧（李毅吧）</td>
+      <td>2013-06</td>
+    </tr>
+    <tr id="裤脱我看">
+      <th scope="row">裤脱我看</th>
+      <td>kù tuō wǒ kàn</td>
+      <td>
+        <span class="badge badge-primary">缩写</span>「<strong class="emphasis">裤</strong>子都<strong class="emphasis">脱</strong>了就给<strong class="emphasis">我看</strong>这个？」的缩写。
+        <hr/>
+        形容被标题党文不对题的内容所蒙骗。
+      </td>
+      <td><span lang="ja" xml:lang="ja">2ちゃんねる掲示板</span></td>
+      <td>2013-06</td>
+    </tr>
+    <tr id="来信砍">
+      <th scope="row">来信砍</th>
+      <td>lái xìn kǎn</td>
+      <td>
+        <span class="badge badge-primary">缩写</span>「<strong class="emphasis">来</strong> ╳╳ <strong class="emphasis">信</strong>不信我<strong class="emphasis">砍</strong>死你」（╳╳ 为地名）的缩写。
+        <hr/>
+        出自百度贴吧（李毅吧）一黑龙江网民的「来东北信不信我砍死你」，通常用于调侃东北的三个大砍省民风彪悍，或是用于表达对地域歧视的讽刺。
+        <hr/>
+        <span class="badge badge-default">衍生</span>「来信碾」：「来北京信不信我碾死你」的缩写。「来信骗」：「来河南信不信我骗死你」的缩写。
+      </td>
+      <td>百度贴吧（李毅吧）</td>
+      <td>2012-03</td>
+    </tr>
+    <tr id="蓝瘦，香菇">
+      <th scope="row">蓝瘦，香菇</th>
+      <td>lán shòu xiāng gū</td>
+      <td>
+        <span class="badge badge-danger">谐音</span>「难受，想哭」的谐音。
+        <hr/>
+        2016 年 10 月，南宁市某电动车专卖店导购员韦勇失恋后录制了一段自拍视频 <sup><a tabindex="0" role="button" data-toggle="popover" data-trigger="focus" data-container="body" data-placement="bottom" data-html="true" data-content="<a href='http://weibo.com/5631313922/EcwY3zByC' target='_blank'>http://weibo.com/5631313922/EcwY3zByC</a>, 微博, 2016-10-12">[1]</a></sup>，其中频繁出现的「难受，想哭」用南宁普通话口音说出来后听起来非常像「蓝瘦，香菇」。该视频在韦勇本人发布到公司微信群后，被同事们传出，引发大规模流行，韦勇也称自己为「蓝瘦香菇哥」。
+        <blockquote>
+          <p><ruby>蓝瘦<rp>（</rp><rt>难受</rt><rp>）</rp></ruby>，<ruby>香菇<rp>（</rp><rt>想哭</rt><rp>）</rp></ruby>，本来<ruby>今颠<rp>（</rp><rt>今天</rt><rp>）</rp></ruby>高高兴兴，<ruby>泥为什莫<rp>（</rp><rt>你为什么</rt><rp>）</rp></ruby>要说这种话？<ruby>蓝瘦<rp>（</rp><rt>难受</rt><rp>）</rp></ruby>，<ruby>香菇<rp>（</rp><rt>想哭</rt><rp>）</rp></ruby>在这里。<ruby>第一翅<rp>（</rp><rt>第一次</rt><rp>）</rp></ruby>为一个<ruby>女孩屎<rp>（</rp><rt>女孩子</rt><rp>）</rp></ruby>这么<ruby>香菇<rp>（</rp><rt>想哭</rt><rp>）</rp></ruby>，<ruby>蓝瘦<rp>（</rp><rt>难受</rt><rp>）</rp></ruby>。<ruby>泥为什莫<rp>（</rp><rt>你为什么</rt><rp>）</rp></ruby>要说这种话，丢我一个人在这里。<ruby>香菇<rp>（</rp><rt>想哭</rt><rp>）</rp></ruby>，<ruby>蓝瘦<rp>（</rp><rt>难受</rt><rp>）</rp></ruby>在这里。<ruby>香菇<rp>（</rp><rt>想哭</rt><rp>）</rp></ruby>。</p>
+        </blockquote>
+        <a class="collapsed" tabindex="0" role="button" data-toggle="collapse" data-target="#蓝瘦，香菇-collapse" aria-controls="蓝瘦，香菇-collapse" aria-expanded="false">视频</a>
+        <div id="蓝瘦，香菇-collapse" class="collapse" role="tabpanel" aria-labelledby="蓝瘦，香菇-collapse">
+          <div class="card card-block">
+            <video width="100%" src="//ohp0uzlic.qnssl.com/is/videos/lsxg.mp4" controls="controls"></video>
+          </div>
+        </div>
+      </td>
+      <td>韦勇</td>
+      <td>2016-10</td>
+    </tr>
+    <tr id="老哥稳">
+      <th scope="row">老哥稳</th>
+      <td>lǎo gē wěn</td>
+      <td>
+        戒赌吧黑话。「老哥」一词源于该吧早期吧友的自称。他们大多自称「东莞首富、温总理亲自接见过、以前是赌徒，后得高人指点，拥有亿万家财，无儿无妻子，如今功成名就想回报社会」，发帖让吧友留卡号给打钱。由于他们在发帖时常常自称「老哥」，该称谓逐渐被更多吧友模仿，成为百度戒赌吧的特有文化。现在「老哥」一词已经成为了一种通用称谓，大多用于吧友之间互相打招呼，称兄道弟。「<a class="anchor-link" href="#稳">稳</a>」，来自足彩吧黑话，是「厉害」的意思，有「稳如狗」、「稳如泰山」、「稳如坟头草」等用法。
+        <hr/>
+        <span class="badge badge-muted">参阅</span>「<a class="anchor-link" href="#稳">稳</a>」。
+      </td>
+      <td>百度贴吧（戒赌吧）</td>
+      <td>2016-06</td>
+    </tr>
+    <tr id="老司机">
+      <th scope="row" class="popular">老司机</th>
+      <td>lǎo sī jī</td>
+      <td>
+        出自云南山歌《老司机带带我》，该歌曲后来被制作成名为《风流妹逗老司机》的音乐视频并发行从而得到广泛传播。其歌词下流猥琐，「老司机带带我」一句反复出现，使得「老司机」一次逐渐流行。现在，「老司机」通常指在某个领域（尤其是色情内容相关）具有深厚资历、广泛资源，见多识广、经验丰富之人。
+        <hr/>
+        <span class="badge badge-default">衍生</span>「开车」、「发车」：指「老司机」分享资源的行为。「飙车」：指「老司机」冒着危险分享资源的行为。「翻车」：指「老司机」分享的资源失效，甚至被删帖、封号等情形；在游戏领域指被认为技术很强的人遭遇了失败。
+      </td>
+      <td>《老司机带带我》（云南山歌）</td>
+      <td>2015-12</td>
+    </tr>
+    <tr id="累觉不爱">
+      <th scope="row">累觉不爱</th>
+      <td>lèi jué bù ài</td>
+      <td>
+        <span class="badge badge-primary">缩写</span>「很<strong class="emphasis">累</strong>，感<strong class="emphasis">觉</strong>自己<strong class="emphasis">不</strong>会再<strong class="emphasis">爱</strong>了」的缩写。
+        <hr/>
+        出自豆瓣一名男孩在作文中感叹「我自嘲为 98 年的老男人，看来这是真的了，心莫名地苍凉，似乎不会再爱了」，引发众多咱们这么大的青年议论纷纷。常常被用作当事情无法接受，自己却又无力改变时的自嘲。
+      </td>
+      <td>豆瓣（青青河边X）</td>
+      <td>2013-08</td>
+    </tr>
+    <tr id="冷无缺">
+      <th scope="row">冷无缺</th>
+      <td>lěng wú quē</td>
+      <td>
+        <span class="badge badge-primary">缩写</span>「<strong class="emphasis">冷</strong>漠，<strong class="emphasis">无</strong>理想，信仰<strong class="emphasis">缺</strong>失」的缩写。
+        <hr/>
+        用以形容没有梦想、没有追求，没有爱的人。
+      </td>
+      <td>漫游 PPG 论坛（hello1z）</td>
+      <td>2013-03</td>
+    </tr>
+    <tr id="李菊福">
+      <th scope="row">李菊福</th>
+      <td>lǐ jú fú</td>
+      <td>
+        <span class="badge badge-danger">谐音</span><span class="badge badge-primary">缩写</span>「理据服」的谐音，「有<strong class="emphasis">理</strong>有<strong class="emphasis">据</strong>，使人信<strong class="emphasis">服</strong>」的缩写。
+        <hr/>
+        因被网友戏谑成「有你有菊，令人性福」而常常通过「楼主李菊福」「LZ 是写书的那个李菊福？」等句式调侃或讽刺楼主。
+      </td>
+      <td>百度贴吧（李毅吧）</td>
+      <td>2011-08</td>
+    </tr>
+    <tr id="流弊">
+      <th scope="row">流弊</th>
+      <td>liú bī</td>
+      <td>
+        <span class="badge badge-danger">谐音</span>「牛逼」的谐音。
+      </td>
+      <td></td>
+      <td>2013-12</td>
+    </tr>
+    <tr id="留卡号">
+      <th scope="row">
+        留卡号
+        <hr/>
+        闭着眼摁 0
+        <hr/>
+        打多打少是个缘分
+      </th>
+      <td>liú kǎ hào</td>
+      <td>
+        戒赌吧黑话。源于戒赌吧网友「星总xingzong」，自称某公司老总，成名较早。其发帖称要转账给各位欠债的吧友还债，「留卡号吧，星总我给你转账时闭着眼睛按零，打多打少还不是个缘字，但这钱只能用来换赌债，要是让我知道你拿去赌，连夜派人打断你狗腿」。该帖引发大量回帖和关注，但最终「星总xingzong」并没有给任何人打钱。在戒赌吧早期还有大量称要「给网友打钱、回报社会」的吧友，但「星总xingzong」的搞笑语录成为了为数不多得到流传的语录之一，成为了该吧的一个传说。
+      </td>
+      <td>百度贴吧（戒赌吧）</td>
+      <td>2016-08</td>
+    </tr>
+    <tr id="路转黑">
+      <th scope="row" class="popular">路转黑</th>
+      <td>lù zhuǎn hēi</td>
+      <td>
+        「路」是「路人」的简写。「路转黑」形容原本对某人或某事持中立态度的人因为一些原因变得讨厌甚至厌恶某人或某事。原因可能是突然认识到了某人或某事此前不为人知的一面、其本身的水平明显变差、变成了接受不了的样子、过于大众化以至于使人失去了归属感，或者对于大众的意义已经远远偏离了人们对它本来的认知。「粉」、「路」、「黑」三种状态可以相互转换，例如由爱生恨，「粉转黑」。
+      </td>
+      <td></td>
+      <td>2014-01</td>
+    </tr>
+    <tr id="绿茶婊">
+      <th scope="row">绿茶婊</th>
+      <td>lǜ chá biǎo</td>
+      <td>
+        泛指外貌清纯脱俗、总是长发飘飘；在大众前看来素面朝天，其实都化了裸妆，实质生活糜烂，思想拜金的年轻女生。这些人往往在人前装出楚楚可怜，人畜无害、岁月静好的模样，实则多病多灾、多情伤状，且善于心计，野心比谁都大，靠出卖肉体上位。此一称谓是对 2005 年在坊间就出现的外围女一词又取的一个侮辱性称呼。
+      </td>
+      <td></td>
+      <td>2013-04</td>
+    </tr>
+    <tr id="妈蛋">
+      <th scope="row" class="popular">妈蛋</th>
+      <td>mā dàn</td>
+      <td>
+        脏话「妈的」的雅化、委婉表达。一说来源于《爸爸去哪儿》中 Kimi 口头禅「爸比」的「反义词」，另一说来源于河南等地一些方言中「你妈了个蛋」的简化表述。
+      </td>
+      <td>湖南卫视《爸爸去哪儿》Kimi Lin（小小志）</td>
+      <td>2013-11</td>
+    </tr>
+    <tr id="妈的智障">
+      <th scope="row">妈的智障</th>
+      <td>mā de zhì zhàng</td>
+      <td>
+        来源于韩国漫画师 Cutbu <sup><a tabindex="0" role="button" data-toggle="popover" data-trigger="focus" data-container="body" data-placement="bottom" data-html="true" data-content="Facebook: <a href='https://www.facebook.com/cutbu2' target='_blank'>https://www.facebook.com/cutbu2</a>, Tumblr: <a href='http://cutbu.tumblr.com/' target='_blank'>http://cutbu.tumblr.com/</a>, 微博: <a href='http://weibo.com/cutbu' target='_blank'>http://weibo.com/cutbu</a>">[1]</a></sup> 的一则两格漫画 <sup><a tabindex="0" role="button" data-toggle="popover" data-trigger="focus" data-container="body" data-placement="bottom" data-html="true" data-content="<a href='http://cutbu.tumblr.com/post/134365925514' target='_blank'>http://cutbu.tumblr.com/post/134365925514</a>, Tumblr, 2015-12-02">[2]</a></sup>，漫画描绘了一只狗在高冷地嘲讽两个正在愉快地学狗叫的人，配文：「Fuckin' retards」。2016 年 2 月，该漫画的中文翻译版被微博用户 <a href="http://weibo.com/u/3475329550" target="_blank">@龙门渕鹌鹑</a> 以表情包形式引用为微博配图 <sup><a tabindex="0" role="button" data-toggle="popover" data-trigger="focus" data-container="body" data-placement="bottom" data-html="true" data-content="<a href='http://weibo.com/3475329550/Dg7LqlmDL' target='_blank'>http://weibo.com/3475329550/Dg7LqlmDL</a>, 微博, 2016-02-03">[3]</a></sup> 后形成大规模传播，成为一句吐槽用语。
+        <hr/>
+        <span class="badge badge-default">亦作</span>「MDZZ」。
+      </td>
+      <td>Tumblr（<a href='http://cutbu.tumblr.com/' target='_blank'>Catbu</a>）</td>
+      <td>2016-02</td>
+    </tr>
+    <tr id="妈哈">
+      <th scope="row">妈哈</th>
+      <td>mā hā</td>
+      <td>
+        <span class="badge badge-primary">缩写</span>「╳╳ 死妈笑哈哈」的缩写。
+      </td>
+      <td>百度贴吧（李毅吧）</td>
+      <td>2013-01</td>
+    </tr>
+    <tr id="么么哒">
+      <th scope="row" class="popular">么么哒</th>
+      <td>me me da</td>
+      <td>
+        表亲吻动作的拟声词，用以表达对一个人的钟情与喜爱。在发生某次李毅吧占领武艺（2010 年快乐男声全国总决赛季军）吧的事件后，有午饭（武艺的粉丝）在李毅吧苦苦哀求称「藝寶佷萌哒，瀙扪艿扪卟崾潶咃，庅庅哒~」，于是「么么哒」广为流传。有时候被写成「摸摸哒」或「摸摸大」。
+      </td>
+      <td></td>
+      <td>2013-03</td>
+    </tr>
+    <tr id="萌萌哒">
+      <th scope="row" class="popular">萌萌哒</th>
+      <td>méng méng da</td>
+      <td>
+        ➊ 表示「萌萌的」、「很可爱」的意思。 ➋ 「该吃药了」的意思。2014 年 2 月 12 日，豆瓣用户「髅髅宫歌留多」在小组「我加了很多小组但我就是不进去说话」最早发表了「今天出来没吃药，感觉整个人都萌萌哒」的主题。后来的「剑网 3 吞仓鼠事件」以及「新堂爱卖萌 GIF」（均可参阅<a href="http://zh.moegirl.org/%E8%90%8C%E8%90%8C%E5%93%92" target="_blank">萌娘百科 - 萌萌哒</a>）的扩散传播，使得这句话普及开来。
+      </td>
+      <td></td>
+      <td>2014-06</td>
+    </tr>
+    <tr id="米那桑">
+      <th scope="row">米那桑</th>
+      <td>mǐ nà sāng</td>
+      <td>
+        日语「<span lang="ja" xml:lang="ja">皆さん</span>」（minasan）的音译，意为「大家、各位、同志们」。
+      </td>
+      <td>日语</td>
+      <td>2014-01</td>
+    </tr>
+    <tr id="喵星人">
+      <th scope="row" class="popular">喵星人</th>
+      <td>miāo xīng rén</td>
+      <td>
+        猫的萌化称呼。基本上，所有常见的动物叫声加「星人」二字可以组成对这个动物的萌化称呼，如「汪星人」（狗）、「吱星人」（鼠）、「嘎星人」（鸭）等，一般用以表示其十分可爱或拟人化。
+      </td>
+      <td></td>
+      <td>2012-02</td>
+    </tr>
+    <tr id="魔性">
+      <th scope="row">魔性</th>
+      <td>mó xìng</td>
+      <td>
+        出自日语<span lang="ja" xml:lang="ja"><ruby>魔<rp>（</rp><rt>ま</rt><rp>）</rp>性<rp>（</rp><rt>しょう</rt><rp>）</rp></ruby></span>，具有诡异而强烈的诱惑，令人无法自拔的意思。
+      </td>
+      <td>日语</td>
+      <td>2015-01</td>
+    </tr>
+    <tr id="目瞪口呆.jpg">
+      <th scope="row">目瞪口呆.jpg</th>
+      <td>mù dèng kǒu dāi</td>
+      <td>
+        来源于一张名为「目瞪口呆」表情图片的文件名。由于该表情经常被网友引用，逐渐形成了只需要贴出文件名就能起到引用表情的效果。
+      </td>
+      <td>表情包</td>
+      <td>2015-01</td>
+    </tr>
+    <tr id="那画面太美我不敢看">
+      <th scope="row">
+        那画面太美我不敢看
+        <hr/>
+        画美不看
+      </th>
+      <td>nà huà miàn tài měi wǒ bù gǎn kàn</td>
+      <td>
+        「无法直视」的委婉表达。
+        <hr/>
+        <span class="badge badge-primary">缩写</span>可缩写为「画美不看」。
+        <br>
+        <span class="badge badge-muted">参阅</span>「<a class="anchor-link" href="#也是醉了">也是醉了</a>」。
+      </td>
+      <td>蔡依林《布拉格广场》（方文山作词）</td>
+      <td>2014-04</td>
+    </tr>
+    <tr id="纳尼">
+      <th scope="row">纳尼</th>
+      <td>nà ní</td>
+      <td>
+        日语「<span lang="ja" xml:lang="ja">なに</span>」（nani）的音译，意为「什么」，表示反问或惊讶。
+      </td>
+      <td>日语</td>
+      <td>2012-06</td>
+    </tr>
+    <tr id="男默女泪">
+      <th scope="row">男默女泪</th>
+      <td>nán mò nǚ lèi</td>
+      <td>
+        <span class="badge badge-primary">缩写</span>「<strong class="emphasis">男</strong>生看了会沉<strong class="emphasis">默</strong>，<strong class="emphasis">女</strong>生看了会流<strong class="emphasis">泪</strong>」的缩写，多用来形容某篇与情感爱情有关文章的主题。
+      </td>
+      <td>QQ 空间</td>
+      <td>2011-12</td>
+    </tr>
+    <tr id="脑补">
+      <th scope="row" class="popular">脑补</th>
+      <td>nǎo bǔ</td>
+      <td>
+        <span class="badge badge-primary">缩写</span>「在大<strong class="emphasis">脑</strong>中<strong class="emphasis">补</strong>充完整（后面的情节）」的缩写。
+        <hr/>
+        意思是在大脑中将后续情节通过自己的想象补充完整，通常指的是一些邪恶的幻想。从心理学上看，脑补是大脑的一种适应性反应。
+      </td>
+      <td></td>
+      <td>2013-04</td>
+    </tr>
+    <tr id="脑洞">
+      <th scope="row" class="popular">脑洞</th>
+      <td>nǎo dòng</td>
+      <td>
+        对情节进行「脑补」（特指异想天开地脑补）的能力，是「想象力」一词的夸张表述。「脑洞」是对夸张想象力的中性表达方式，也有用「脑坑」一词来进行贬义表达的。
+        <hr/>
+        <span class="badge badge-muted">参阅</span>「<a class="anchor-link" href="#脑补">脑补</a>」。
+      </td>
+      <td></td>
+      <td>2013-04</td>
+    </tr>
+    <tr id="你开心就好">
+      <th scope="row">你开心就好</th>
+      <td>nǐ kāi xīn jiù hǎo</td>
+      <td>
+        出自一篇流行段子，标题是「领导，关于我专业什么的，你开心就好」，内容是「小 ╳，听说你大学学的专业是 ╳╳，……」，表达了一种「知识改变不了命运」的无奈。「你开心就好」、「你们开心就好」也成为了「呵呵」的委婉表达而走红。
+      </td>
+      <td></td>
+      <td>2014-12</td>
+    </tr>
+    <tr id="你妈炸了">
+      <th scope="row" class="popular">你妈炸了</th>
+      <td>nǐ mā zhà le</td>
+      <td>
+        「你妈炸了」现在常常被当做一种脏话来使用。而该词出自一条新闻：「55 岁的英国女子安内特·毛德因癌症去世，离世前她要求将自己的骨灰制成烟花，在生命结束之际再灿烂一把。烟花公司耗时两周用她的骨灰制作了 250 只特制烟花。」微博上有段子手借题发挥补充道：
+        <blockquote>
+          <p>葬礼上爸爸点燃烟花说，别哭儿子，快看，你妈炸了。</p>
+        </blockquote>
+      </td>
+      <td>社会新闻</td>
+      <td>2015-01</td>
+    </tr>
+    <tr id="你们城里人真会玩">
+      <th scope="row">
+        你们城里人真会玩
+        <hr/>
+        城会玩
+      </th>
+      <td>nǐ men chéng lǐ rén zhēn huì wán</td>
+      <td>
+        2015 年 5 月 13 日，第 68 届戛纳电影节红毯走秀中，身穿一身龙袍的范冰冰被身穿一身东北大棉被的张馨予抢占头条。大家对张馨予的造型评价为「土气」、「丢人」、「翠花」，而张馨予对此也回应称：
+        <blockquote>
+          <p><strong class="emphasis">你们城里人真会闹</strong>，小媳妇儿也挺不容易的。</p>
+        </blockquote>
+        以至于「你们城里人真会玩」逐渐成为一条<a class="anchor-link" href="#梗">梗</a>，多用于形容那些或新奇前卫、或炫富炫技、或不可理喻的事，现也演变成单纯的调侃话。
+        <hr/>
+        <span class="badge badge-primary">缩写</span>可缩写为「城会玩」。
+      </td>
+      <td>张馨予</td>
+      <td>2015-06</td>
+    </tr>
+    <tr id="你们感受一下">
+      <th scope="row" class="popular">你们感受一下</th>
+      <td>nǐ men gǎn shòu yī xià</td>
+      <td>
+        Hi!PDA 论坛 D 版（Discovery 板块，即水区）的活跃用户「灵魂大师」张大锤（微博 <a href="http://weibo.com/dagudu" target="_blank">@大咕咕咕鸡</a>）发帖时的常用语。原始版本是「你们随意感受下」，意思是希望他人对自己所发表的内容引起关注、表示认可，也展现了一种傲娇心态。后来在微博通过留几手的使用而得以大规模传播。
+      </td>
+      <td>微博（<a href="http://weibo.com/dagudu" target="_blank">@大咕咕咕鸡</a>）</td>
+      <td>2015-03</td>
+    </tr>
+    <tr id="你胸太小不要说话">
+      <th scope="row">你胸太小不要说话</th>
+      <td>nǐ xiōng tài xiǎo bù yào shuō huà</td>
+      <td>
+        出自《我的朋友很少》（日语：<span lang="ja" xml:lang="ja">『仆は友达が少ない』</span>）角色星奈（<span lang="ja" xml:lang="ja"><ruby>柏崎<rp>（</rp><rt>かしわざき</rt><rp>）</rp>星奈<rp>（</rp><rt>せな</rt><rp>）</rp></ruby></span>）的台词。
+        <hr/>
+        <span class="badge badge-default">衍生</span>「你胸大你说话」、「你胸大你来讲」、「我胸大我来讲」、「你胸太小不要说话」「我胸小，我就不出声了」等：均为衍生用法。
+      </td>
+      <td>《我的朋友很少》</td>
+      <td>2014-10</td>
+    </tr>
+    <tr id="逆袭">
+      <th scope="row" class="popular">逆袭</th>
+      <td>nì xí</td>
+      <td>
+        在逆境或绝境中反击，最终逆转局势，并取得成功。「<span lang="ja" xml:lang="ja"><ruby>逆<rp>（</rp><rt>ぎゃく</rt><rp>）</rp>襲<rp>（</rp><rt>しゅう</rt><rp>）</rp></ruby></span>」（gyaku shū）最初是一个日语词汇。
+      </td>
+      <td>归来的奥特曼（日语：<span lang="ja" xml:lang="ja">『帰ってきたウルトラマン』</span>）</td>
+      <td>2012-04</td>
+    </tr>
+    <tr id="你咋不上天呢">
+      <th scope="row">你咋不上天呢</th>
+      <td>nǐ zǎ bù shàng tiān ne</td>
+      <td>
+        出自微信朋友圈一则「全文梗」流行段子《教你如何教训东北人》，作者不详。原文为：
+        <blockquote>
+          <p>
+            教你如何教训东北人
+            <br>
+            ……
+            <br>
+            合上
+            <br>
+            瞅把你能的，你咋不上天呢
+          </p>
+        </blockquote>
+        「你咋不上天呢」原本是一句东北方言习语，常见用法例如：「你咋不上天呢，就差给你买个窜天猴了是不。」
+      </td>
+      <td>微信朋友圈</td>
+      <td>2015-12</td>
+    </tr>
+    <tr id="年娇处">
+      <th scope="row">年娇处</th>
+      <td>nián jiāo chù</td>
+      <td>
+        <span class="badge badge-primary">缩写</span>「那<strong class="emphasis">年</strong>阿<strong class="emphasis">娇</strong>还是<strong class="emphasis">处</strong>女」的缩写。
+        <hr/>
+        用以形容对方知道的太晚，或所描述的内容火星（过时）。
+        <hr/>
+        <span class="badge badge-default">衍生</span>「年娇处，村通网」：「那年阿娇还是处女，楼主的村子刚刚通网」的缩写。「年楼液」：「那年楼主还是液体」的缩写。
+      </td>
+      <td>百度贴吧（李毅吧）</td>
+      <td>2013-06</td>
+    </tr>
+    <tr id="尿点">
+      <th scope="row">尿点</th>
+      <td>niào diǎn</td>
+      <td>
+        指电影懂作品中平淡、乏味的片段。在电影院，观众通常趁电影进行到这些部分时起身上洗手间，因此称其为「尿点」。而「毫无尿点」则指影片引人入胜、剧情跌宕起伏，精彩到完全没有可以利用来如厕的间歇。该词因 2010 年《让子弹飞》上映后由媒体影评「只有笑点、没有尿点」而逐渐得到传播。
+      </td>
+      <td></td>
+      <td>2012-05</td>
+    </tr>
+    <tr id="女汉子">
+      <th scope="row">女汉子</th>
+      <td>nǚ hàn zi</td>
+      <td>
+        字面上指行为和性格向男性靠拢的女性。实际上都是力大如牛、走路生风、不拘小节、自强不息的战斗力爆表的女子。她们不会撒娇，性格大大咧咧，不喜欢化妆，与男生称兄道弟。完全意义上的女汉子，没有男朋友。
+      </td>
+      <td></td>
+      <td>2013-09</td>
+    </tr>
+    <tr id="捧杀">
+      <th scope="row">捧杀</th>
+      <td>pěng shā</td>
+      <td>
+        原本已是现代汉语中存在的书面用语，意为「过分地夸奖或吹捧，使人骄傲自满、停滞退步甚至导致堕落、失败。」现在也在网络用语中被经常使用，意为「过分地赞扬和吹捧，来达到被赞扬者心虚或招致他人反感的目的。」
+    </td>
+      <td></td>
+      <td>2012-12</td>
+    </tr>
+    <tr id="屏幕有点脏">
+      <th scope="row">屏幕有点脏</th>
+      <td>píng mù yǒu diǎn zāng</td>
+      <td>
+        「屏幕有点脏」或「屏幕脏了」是 hentai 用语「<a class="anchor-link" href="#prpr">prpr</a>」的委婉表达，意思是出现了福利镜头，想要舔舔屏幕。
+        <hr/>
+        <span class="badge badge-muted">参阅</span>「<a class="anchor-link" href="#prpr">prpr</a>」。
+      </td>
+      <td></td>
+      <td>2013-09</td>
+    </tr>
+    <tr id="其实一开始我是拒绝的">
+      <th scope="row">其实一开始我是拒绝的</th>
+      <td>qí shí yī kāi shǐ wǒ shì jù jué de</td>
+      <td>
+        出自 2004 年成龙所代言的霸王洗发水广告，在 2015 年初被用户名为「绯色toy」的用户制作成恶搞视频发表于哔哩哔哩动画，与「duang」同时走红。原文是：
+        <blockquote>
+          <p>当我第一次知道要拍洗发水广告的时候，其实我是拒绝的。因为我觉得，你不能叫我拍马上就拍。第一我要试一下，我又不想说，一个广告拍完后加上好多特技，头发 duang（注：原文为「动啊」，「duang」可能系空耳讹传），很黑，很亮，很柔，结果观众出来一定会骂我，根本没有这种头发，证明上面这个是假的。</p>
+        </blockquote>
+        <hr/>
+        <span class="badge badge-muted">参阅</span>「<a class="anchor-link" href="#duang">duang</a>」。
+      </td>
+      <td>霸王洗发水广告</td>
+      <td>2015-02</td>
+    </tr>
+    <tr id="前方高能">
+      <th scope="row" class="popular">前方高能</th>
+      <td>qián fāng gāo néng</td>
+      <td>
+        多见于视频弹幕网站，指接下来将有或激动人心、或超级雷人、或逆转性内容的情节或画面，而提前进行吐槽并提醒后来的阅读者、观看者做好心理准备，迎接冲击。
+        <hr/>
+        <span class="badge badge-default">衍生</span>「全程高能」：指整个视频充满亮点。
+      </td>
+      <td>《新世纪福音战士》第六话</td>
+      <td>2013-04</td>
+    </tr>
+    <tr id="且行且珍惜">
+      <th scope="row">
+        且行且珍惜
+        <hr/>
+        马伊琍体
+      </th>
+      <td>qiě xíng qiě zhēn xī</td>
+      <td>
+        2014 年 3 月 28 日晚，《南都娱乐周刊》主编谢晓发布了一篇文章 <sup><a tabindex="0" role="button" data-toggle="popover" data-trigger="focus" data-container="body" data-placement="bottom" data-html="true" data-content="原微博已删除。">[1]</a></sup>，暗示手握重磅消息，并表示视频图片将在周一发布。多个媒体人和八卦微博账号证实该新闻的当事人是文章与姚笛，《南都娱乐周刊》拍到的是文章出轨恋上姚笛的证据。其后几天内，陆续有文章和姚笛挽手同行、贴面亲热的照片被发布。此事引发了娱乐圈震动，「周一见」也成为当时的流行词汇。3 月 31 日（星期一）00:04，文章首次回应「出轨门」并承认了「劈腿」传闻。他发布一则标题为《致 #周一见#》的长微博 <sup><a tabindex="0" role="button" data-toggle="popover" data-trigger="focus" data-container="body" data-placement="bottom" data-html="true" data-content="原微博已删除。">[2]</a></sup> 公开道歉，并在长微博中称：
+        <blockquote>
+          <p>时至今日都是我咎由自取，错就是错，与任何人无关。</p>
+          <p>必须重新梳理自己，坦诚面对并诚恳道歉。</p>
+        </blockquote>
+        而 3 分钟后的 00:07，马伊琍也写了一条微博 <sup><a tabindex="0" role="button" data-toggle="popover" data-trigger="focus" data-container="body" data-placement="bottom" data-html="true" data-content="<a href='http://weibo.com/1196235387/ADqIb5NAi' target='_blank'>http://weibo.com/1196235387/ADqIb5NAi</a>, 微博, 2014-03-31">[3]</a></sup>：
+        <blockquote>
+          <p>恋爱虽易，婚姻不易，<strong class="emphasis">且行且珍惜</strong></p>
+        </blockquote>
+        由此，「且行且珍惜」一词被大量网友模仿、改编，使「且 ╳ 且 ╳╳」的「马伊琍体」句式风靡一时。
+      </td>
+      <td>马伊琍</td>
+      <td>2014-03</td>
+    </tr>
+    <tr id="请允悲">
+      <th scope="row">请允悲</th>
+      <td>qǐng yǔn bēi</td>
+      <td>
+        <span class="badge badge-primary">缩写</span>「<strong class="emphasis">请允</strong>许我做一个<strong class="emphasis">悲</strong>伤的表情」的缩写。
+        <hr/>
+        在使用「请允悲」时，实际上常常附带使用的是一个姚明大笑的表情。「请允兵」：请允许我做一个兵库北的表情（兵库北的表情：日本声优花泽香菜（<span lang="ja" xml:lang="ja"><ruby>花澤<rp>（</rp><rt>はなざわ</rt><rp>）</rp>香菜<rp>（</rp><rt>かな</rt><rp>）</rp></ruby></span>）在日本综艺节目中的一次鬼畜笑容，由于电视画面当时正好在同步滚动播出兵库北的天气，「兵库北」成为其笑容的代名词）。
+      </td>
+      <td>暴走漫画（金馆长）</td>
+      <td>2013-09</td>
+    </tr>
+    <tr id="曲忠赞">
+      <th scope="row">曲忠赞</th>
+      <td>qǔ zhōng zàn</td>
+      <td>
+        <span class="badge badge-primary">缩写</span>「一曲忠诚的赞歌」的缩写。
+        <hr/>
+        通常用于讽刺外国政要做出了有利于中国的事情，或亲某国的网民所发贴子质量低下或行为拙劣，被认为帮了倒忙，如同打入敌人内部的卧底。
+      </td>
+      <td>天涯社区</td>
+      <td>2013-06</td>
+    </tr>
+    <tr id="然而并没有什么卵用">
+      <th scope="row" class="popular">
+        然而并没有什么卵用
+        <hr/>
+        然并卵
+      </th>
+      <td>rán ér bìng méi yǒu shé me luǎn yòng</td>
+      <td>
+        指事物看上去很高端、很复杂，实则徒劳无用、用处甚微。「没卵用」来自湖南方言或粤语，是「没有一点用处」粗口表达。「并没有……」的说法来源于 2014 年斗鱼游戏直播平台人气游戏主播「秦先森」反复使用的口头禅「然而……并没有」、「影响并不大」；而「然而并没有什么卵用」的说法则是因为哔哩哔哩 Po 主「王老菊」以及《暴走大事件》2015 年 4 月 19 日的节目中张全蛋的表述而得到大范围传播。
+        <hr/>
+        <span class="badge badge-primary">缩写</span>可缩写为「然并卵」。
+      </td>
+      <td>斗鱼（主播 <a href="http://www.douyutv.com/quin" target="_blank">Mr.Quin</a>）、哔哩哔哩（<a href="http://space.bilibili.com/423895" target="_blank">怕上火暴王老菊</a>）、《暴走大事件》（张全蛋）</td>
+      <td>2015-03</td>
+    </tr>
+    <tr id="然而 ╳╳ 早就看穿了一切">
+      <th scope="row">然而 ╳╳ 早就看穿了一切</th>
+      <td>rán ér zǎo jiù kàn chuān le yī qiè</td>
+      <td>
+        在 BBC 与中视传媒等公司联合摄制的自然纪录片《美丽中国》（Wild China）之《锦绣华南》（Heart of the Dragon）这一集里，第 49 分 10 秒时出现了一个猴王的画面，台词为「然而猴王早已看穿了一切」（The alpha male has seen it all before）。这个画面被制作成 GIF 图片后，逐渐在网络热传，并被制作成慎二（<span lang="ja" xml:lang="ja"><ruby>間桐<rp>（</rp><rt>まどう</rt><rp>）</rp>慎二<rp>（</rp><rt>しんじ</rt><rp>）</rp></ruby></span>）、沼跃鱼、皮克等多个版本。
+      </td>
+      <td>《美丽中国》</td>
+      <td>2014-12</td>
+    </tr>
+    <tr id="然后他们就疯狂地做爱了">
+      <th scope="row">然后他们就疯狂地做爱了</th>
+      <td>rán hòu tā men jiù fēng kuáng de zuò ài le</td>
+      <td>
+        是一个曾流行于日本 Twitter 的转发语。因微博段子手 <a href="http://weibo.com/u/1790597487" target="_blank">@五行属二</a> 的一条微博 <sup><a tabindex="0" role="button" data-toggle="popover" data-trigger="focus" data-container="body" data-placement="bottom" data-html="true" data-content="<a href='http://weibo.com/1790597487/AsCvC6OPb' target='_blank'>http://weibo.com/1790597487/AsCvC6OPb</a>, 微博, 2014-01-18">[1]</a></sup> 而广为传播，被当做「万能转发语」使用在各种不同的转发或回复中。
+      </td>
+      <td>Twitter</td>
+      <td>2014-01</td>
+    </tr>
+    <tr id="人干事">
+      <th scope="row">人干事</th>
+      <td>rén gàn shì</td>
+      <td>
+        <span class="badge badge-primary">缩写</span>「这是<strong class="emphasis">人干</strong>的<strong class="emphasis">事</strong>吗」的缩写。
+        <hr/>
+        ➊ 用于吐槽关键镜头被和谐、剧情高潮时突然插入 ED 等「灭绝人性」的行为。➋ 用于对某些「非一般人类能够完成的壮举」或困难的工作表示由衷的赞赏，例如坚持创作原创作品、大量制作神弹幕或坚持搬运大量新番。
+      </td>
+      <td>SbadgeE1 论坛</td>
+      <td>2013-09</td>
+    </tr>
+    <tr id="人艰不拆">
+      <th scope="row">人艰不拆</th>
+      <td>rén jiān bù chāi</td>
+      <td>
+        <span class="badge badge-primary">缩写</span>「<strong class="emphasis">人</strong>生已经如此<strong class="emphasis">艰</strong>难，有些事就<strong class="emphasis">不</strong>要<strong class="emphasis">拆</strong>穿」的缩写。
+      </td>
+      <td>林宥嘉《说谎》（施人诚作词）</td>
+      <td>2013-09</td>
+    </tr>
+    <tr id="人参公鸡">
+      <th scope="row">人参公鸡</th>
+      <td>rén shēn gōng jī</td>
+      <td>
+        <span class="badge badge-danger">谐音</span>「人身攻击」的谐音。
+      </td>
+      <td></td>
+      <td>2013-06</td>
+    </tr>
+    <tr id="人希">
+      <th scope="row">人希</th>
+      <td>rén xī</td>
+      <td>
+        <span class="badge badge-primary">缩写</span>「╳╳，<strong class="emphasis">人</strong>类的<strong class="emphasis">希</strong>望！」的缩写。
+        <hr/>
+        特用于 Google（谷歌，「谷人希」）、美国（美利坚，「美人希」）等，常见于 CnBeta 中关于 Google 或美国的文章评论中。
+      </td>
+      <td>CnBeta</td>
+      <td>2013-01</td>
+    </tr>
+    <tr id="人无贬基">
+      <th scope="row">人无贬基</th>
+      <td>rén wú biǎn jī</td>
+      <td>
+        <span class="badge badge-primary">缩写</span>「<strong class="emphasis">人</strong>民币<strong class="emphasis">无贬</strong>值<strong class="emphasis">基</strong>础」的缩写。
+        <hr/>
+        源于央行对于人民币汇率几个阶段的表态（见下），用以调侃式形容身体很细弱，嘴上很牛逼的乐观心态。
+        <blockquote>
+          <p>6.2：「人民币不具备贬值基础」<br>6.3：「人民币不具备持续贬值基础」<br>6.5：「人民币不具备大幅贬值基础」<br>6.6：「央行不会放任人民币急剧大幅贬值」<br>6.8：「人民币一向坚挺，不会大幅度贬值」<br>6.9：「人民币突破 6.9，中国或成最大赢家」</p>
+        </blockquote>
+        <hr/>
+        <span class="badge badge-default">衍生</span>「人无贬基，中或最赢」：「中或最赢」是「<strong class="emphasis">中</strong>国<strong class="emphasis">或</strong>成<strong class="emphasis">最</strong>大<strong class="emphasis">赢</strong>家」的缩写，是在官方口径上屡屡出现的语句，被解读为「除了几乎满溢的爱国情怀，表达的更是这样一种状态：任何时候，哪怕在最艰苦最绝望的时候，都要有强烈的乐观主义精神」<sup><a tabindex="0" role="button" data-toggle="popover" data-trigger="focus" data-container="body" data-placement="bottom" data-html="true" data-content="<a href='http://weibo.com/ttarticle/p/show?id=2309614046004331649868' target='_blank'>人无贬基中或最赢 人民币贬值的罪魁祸首真在大洋彼岸？</a>, 微博, 2011-11-14">[1]</a></sup>。
+      </td>
+      <td>中国人民银行</td>
+      <td>2016-11</td>
+    </tr>
+    <tr id="软妹币">
+      <th scope="row">软妹币</th>
+      <td>ruǎn mèi bì</td>
+      <td>
+        <span class="badge badge-danger">谐音</span>「人民币」的谐音。
+        <hr/>
+        有时简称「软」。
+      </td>
+      <td></td>
+      <td>2012-07</td>
+    </tr>
+    <tr id="三五瓶">
+      <th scope="row">三五瓶</th>
+      <td>sān wǔ píng</td>
+      <td>
+        戒赌吧黑话。表示有赌徒正在作客他乡，相约吃饭喝酒、聊天诉苦。源于百度戒赌吧某辽宁网友发帖称自己流落广州火车站，希望有吧友收留，「请吃几个炒菜，喝他三五瓶啤酒，安排个有电脑的住宿」。后来有网友将「三五瓶」引申为「三五平」，取「夷平三山五岳」之意，并与「<a class="anchor-link" href="#逼两拳">逼两拳</a>」一起以此创作了一首诗：
+        <blockquote>
+          <p>三山五岳我所平<br>气吞山河傲气扬<br>矗立朝堂本莫忘<br>忠孝逼人两难全</p>
+        </blockquote>
+        <hr/>
+        <span class="badge badge-muted">参阅</span>「<a class="anchor-link" href="#逼两拳">逼两拳</a>」。
+      </td>
+      <td>百度贴吧（戒赌吧）</td>
+      <td>2016-08</td>
+    </tr>
+    <tr id="社病我药">
+      <th scope="row">社病我药</th>
+      <td>shè bìng wǒ yào</td>
+      <td>
+        <span class="badge badge-primary">缩写</span>「<strong class="emphasis">社</strong>会生<strong class="emphasis">病</strong>了，为什么让<strong class="emphasis">我</strong>吃<strong class="emphasis">药</strong>」的缩写。
+      </td>
+      <td></td>
+      <td>2013-06</td>
+    </tr>
+    <tr id="深藏功与名">
+      <th scope="row">深藏功与名</th>
+      <td>shēn cáng gōng yǔ míng</td>
+      <td>
+        用于卖萌语境，多为第一人称形容自己，带着一丝傲娇，完成关键一击后自己的状态。也有用于他人，语境多诙谐戏谑。
+      </td>
+      <td>李白《侠客行》</td>
+      <td>2012-05</td>
+    </tr>
+    <tr id="深井冰">
+      <th scope="row" class="popular">深井冰</th>
+      <td>shēn jǐng bīng</td>
+      <td>
+        <span class="badge badge-danger">谐音</span>「神经病」的谐音。
+        <hr/>
+        另外，一位日本 GV 演员也叫深井冰（<span lang="ja" xml:lang="ja">深井 氷</span>），代表作《拘禁病栋》系列。同样谐音「神经病」的，还有「蛇精病」等。
+      </td>
+      <td></td>
+      <td>2012-05</td>
+    </tr>
+    <tr id="十动然拒">
+      <th scope="row">十动然拒</th>
+      <td>shí dòng rán jù</td>
+      <td>
+        <span class="badge badge-primary">缩写</span>「<strong class="emphasis">十</strong>分感<strong class="emphasis">动</strong>，<strong class="emphasis">然</strong>后<strong class="emphasis">拒</strong>绝了他」的缩写。
+        <hr/>
+        用以形容屌丝被女神或男神拒绝后的自嘲、心酸心情。这句话的来源是：华中科技大学文华学院工程管理专业大四男生王文瑾花 212 天写 16 万字情书于光棍节表白，被拒。
+      </td>
+      <td>社会新闻</td>
+      <td>2012-11</td>
+    </tr>
+    <tr id="视奸">
+      <th scope="row">视奸</th>
+      <td>shì jiān</td>
+      <td>
+        来自日语「<span lang="ja" xml:lang="ja"><ruby>視<rp>（</rp><rt>し</rt><rp>）</rp>姦<rp>（</rp><rt>かん</rt><rp>）</rp></ruby></span>」（shikan）。➊ 理解为「视觉上的强奸」，指用有色的眼光死盯着不放，让人感到极不舒服的行为。➋ 理解为「视觉上的意淫」，是非贬义的用法，指通过凝视、打量对方，完成意淫的行为。
+      </td>
+      <td>日语</td>
+      <td>2014-11</td>
+    </tr>
+    <tr id="是在下输了">
+      <th scope="row">是在下输了</th>
+      <td>shì zài xià shū le</td>
+      <td>
+        出处不详，常以图片表情配文与弹幕的形式流行。➊ 表示强烈地认可他人的技艺、赞同他人的观点（褒义），类似于「五体投地」。➋ 对他人装逼行为的反击或嘲讽（贬义），是一种对装逼行为的「万能回击句式」。
+      </td>
+      <td></td>
+      <td>2015-07</td>
+    </tr>
+    <tr id="爽场">
+      <th scope="row">爽场</th>
+      <td>shuǎng chǎng</td>
+      <td>
+        <span class="badge badge-primary">缩写</span>「╳╳ 一时<strong class="emphasis">爽</strong>，全家火葬<strong class="emphasis">场</strong>」（╳╳ 为某种行为）的缩写。
+      </td>
+      <td></td>
+      <td>2013-01</td>
+    </tr>
+    <tr id="说出来你可能不信">
+      <th scope="row">说出来你可能不信</th>
+      <td>shuō chū lái nǐ kě néng bù xìn</td>
+      <td>
+        最早被用在一些校园题材的网络笑话中，完整表述是「╳╳，有件事说出来你可能不信」。这句话试图对后文中完全无法以常理解释的理由做出辩解，以达到戏谑的效果。
+      </td>
+      <td></td>
+      <td>2016-02</td>
+    </tr>
+    <tr id="说闹觉余">
+      <th scope="row">说闹觉余</th>
+      <td>shuō nào jué yú</td>
+      <td>
+        <span class="badge badge-primary">缩写</span>「其他人有<strong class="emphasis">说</strong>有笑有打有<strong class="emphasis">闹</strong>感<strong class="emphasis">觉</strong>自己很多<strong class="emphasis">余</strong>」的缩写。
+      </td>
+      <td></td>
+      <td>2013-09</td>
+    </tr>
+    <tr id="撕逼">
+      <th scope="row" class="popular">撕逼</th>
+      <td>sī bī</td>
+      <td>
+        最初指女人与女人之间的斗争，例如「甄嬛一路撕逼众嫔妃」，更为形象一点的，称为「扯头花」。男人与男人之间的斗争，称为「扯吊」，更为形象一点的，称为「打出精」。现在已可以泛指不同性别的所有言语争斗行为。
+      </td>
+      <td></td>
+      <td>2014-07</td>
+    </tr>
+    <tr id="搜噶">
+      <th scope="row" class="popular">搜噶</th>
+      <td>sōu ga</td>
+      <td>
+        日语「<span lang="ja" xml:lang="ja">そうか</span>」（sō ka）的音译，意为「原来如此」。
+      </td>
+      <td>日语</td>
+      <td>2013-09</td>
+    </tr>
+    <tr id="他说得好有道理，我竟无言以对">
+      <th scope="row">他说得好有道理，我竟无言以对</th>
+      <td>tā shuō de hǎo yǒu dào lǐ, wǒ jìng wú yán yǐ duì</td>
+      <td>
+        出自万合天宜出品的网络视频《万万没想到》第二季第一集中王大锤的台词，表示「无语」之意。
+      </td>
+      <td>《万万没想到》</td>
+      <td>2014-10</td>
+    </tr>
+    <tr id="太监">
+      <th scope="row">太监</th>
+      <td>tài jiàn</td>
+      <td>
+        在网络用语中为动词或形容词，意思就是指写了一部分，却不再有下文。通常指一些帖子（「太监贴」）、小说创作等烂尾了。来源于此笑话：
+        <blockquote>
+          <p>有一次，纪晓岚在城门口遇到一个太监。太监拦住纪晓岚，不让他走，让他讲个笑话才可以走。纪晓岚说：「从前有个太监……」太监急忙的问：「下面呢？」纪晓岚说：「下面没有了。」</p>
+        </blockquote>
+      </td>
+      <td></td>
+      <td>2012-12</td>
+    </tr>
+    <tr id="躺枪">
+      <th scope="row">躺枪</th>
+      <td>tǎng qiāng</td>
+      <td>
+        <span class="badge badge-muted">参阅</span>「<a class="anchor-link" href="#躺中">躺中</a>」。
+      </td>
+      <td></td>
+      <td>2012-08</td>
+    </tr>
+    <tr id="躺中">
+      <th scope="row">躺中</th>
+      <td>tǎng zhòng</td>
+      <td>
+        <span class="badge badge-primary">缩写</span>「<strong class="emphasis">躺</strong>着也<strong class="emphasis">中</strong>枪」的缩写，意思是自己什么也没做，没招惹别人却被别人言语无故攻击了，表示很无辜的感受或无可奈何的自嘲心情。
+      </td>
+      <td>周星驰《逃学威龙》</td>
+      <td>2012-08</td>
+    </tr>
+    <tr id="体亏屁思">
+      <th scope="row">体亏屁思</th>
+      <td>tǐ kuī pì sī</td>
+      <td>
+        <span class="badge badge-primary">缩写</span>「都是<strong class="emphasis">体</strong>制的错，吃<strong class="emphasis">亏</strong>的是<strong class="emphasis">屁</strong>民，我不禁陷入了沉<strong class="emphasis">思</strong>」的缩写。
+        <hr/>
+        <span class="badge badge-muted">参阅</span>「<a class="anchor-link" href="#定体问">定体问</a>」。
+      </td>
+      <td></td>
+      <td>2013-06</td>
+    </tr>
+    <tr id="天了噜">
+      <th scope="row">天了噜</th>
+      <td>tiān le lu</td>
+      <td>
+        由「天惹奴」进化而来（噜或奴为语气助词），意为「我的天」「我的神啊」。
+      </td>
+      <td>淋语（Linguage，作者：蔡依林及她的粉丝们）</td>
+      <td>2013-09</td>
+    </tr>
+    <tr id="天凉王破">
+      <th scope="row">天凉王破</th>
+      <td>tiān liáng wáng pò</td>
+      <td>
+        <span class="badge badge-primary">缩写</span>「<strong class="emphasis">天凉</strong>了，让<strong class="emphasis">王</strong>氏集团<strong class="emphasis">破</strong>产吧」的缩写。
+        <hr/>
+        语出耽美小说，形容装 B 过度。
+      </td>
+      <td>雪幻狐《我的烈火保镖》</td>
+      <td>2013-06</td>
+    </tr>
+    <tr id="图样图森破">
+      <th scope="row">图样图森破</th>
+      <td>tú yàng tú sēn pò</td>
+      <td>
+        英语「Too young, too simple」的音译，语出长者，意为「太年轻，太天真」。原文是「你们啊，too young, too simple. Sometimes naïve!」（太年轻，太单纯，有时很天真），因 2000 年香港女记者张宝华不断追问是否「钦点」董建华连任行政长官而勃然大怒做出此回应。
+        <hr/>
+        <span class="badge badge-default">衍生</span>「奶无」「奶易腐」「上台拿衣服」：「Sometimes naïve」的音译。「图样图森破奶易腐」或「图样图森破，上台拿衣服」：全文「Too young, too simple. Naïve!」的音译。
+      </td>
+      <td>长者</td>
+      <td>2013-09</td>
+    </tr>
+    <tr id="图种熊菊">
+      <th scope="row">图种熊菊</th>
+      <td>tú zhǒng xióng jú</td>
+      <td>
+        <span class="badge badge-primary">缩写</span>「发<strong class="emphasis">图</strong>不发<strong class="emphasis">种</strong>，<strong class="emphasis">菊</strong>花被<strong class="emphasis">熊</strong>捅」的缩写。
+        <hr/>
+        形容对楼主发了「你懂的」级别的图却不留下可供下载的 BT 种子，以至于吊足围观群众口味行为的愤恨。
+        <hr/>
+        <span class="badge badge-default">衍生</span>「图种熊，门菊熊」、「熊已上路」等：均为衍生用法。
+      </td>
+      <td></td>
+      <td>2013-06</td>
+    </tr>
+    <tr id="推席">
+      <th scope="row">推席</th>
+      <td>tuī xí</td>
+      <td>
+        来自英文「Tweet seat」，指剧院专门给发推特直播的观众预留的席位。这类座位视角绝佳，还为观者配备手机遮光盒子，观看者需要每 3~5 分钟发一条推特直播内容或者感想。剧院希望通过观众们自己的社交网络和朋友圈子吸引关注。
+      </td>
+      <td></td>
+      <td>2013-01</td>
+    </tr>
+    <tr id="挖掘机技术哪家强">
+      <th scope="row">
+        挖掘机技术哪家强
+        <hr/>
+        那么问题来了
+        <hr/>
+        于是问题来了
+      </th>
+      <td>wā jué jī jì shù nǎ jiā qiáng</td>
+      <td>
+        2014 年下半年流行的网络用语。这句话是对山东蓝翔职业技术学校的调侃，由该学校早年由唐国强代言电视广告的广告词而来，原文为：
+        <blockquote>
+          <p>学挖掘机学校哪家强？中国山东找蓝翔，一百台挖掘机供学员实习，先学技术后交费，第一个月工资当学费。试学一月不收任何费用！</p>
+        </blockquote>
+        2014 年 9 月，蓝翔副校长带领上百师生从济南跨省远赴河南商丘打群架事件发生后，这个句式在微博、网易跟帖等平台中流行起来。其完整表述是「……（一段高深的、富有哲理和思考的话），那么（于是）问题来了，挖掘机技术哪家强？中国山东找蓝翔！」。由于其完整表述已经足够脍炙人口，所以甚至只要写到「那么问题来了」或「于是问题来了」时，即很容易脑补出下半句「挖掘机技术哪家强」。
+      </td>
+      <td>蓝翔职业技术学校广告</td>
+      <td>2014-10</td>
+    </tr>
+    <tr id="挽尊">
+      <th scope="row">
+        挽尊
+        <hr/>
+        大挽尊术
+      </th>
+      <td>wǎn zūn</td>
+      <td>
+        <span class="badge badge-primary">缩写</span>「<strong class="emphasis">挽</strong>救（楼主的）<strong class="emphasis">尊</strong>严」的缩写。一般是指楼主发完帖子后，长时间没有人回复，或者楼主发的内容比较冷、无聊，其他人回复时戏谑楼主的意思。
+        <hr/>
+        <span class="badge badge-default">亦作</span>「大挽尊术」。
+      </td>
+      <td>百度贴吧</td>
+      <td>2011-02</td>
+    </tr>
+    <tr id="稳">
+      <th scope="row">稳</th>
+      <td>wěn</td>
+      <td>
+        足彩吧黑话。原本是彩民专用术语，源于足彩吧中有跟注的吧友在他人的推荐帖下回帖询问「稳不稳？」，跟风起哄的网友回复称「稳」、「稳如狗」、「大师推荐稳如狗」。后来演变成无论行家或业余、无论红黑，所有推单帖下都有吧友回复「稳」，使该词具有了调侃的意味。
+        <hr/>
+        <span class="badge badge-default">衍生</span>「大师稳」：「<strong class="emphasis">大师</strong>推荐<strong class="emphasis">稳</strong>如狗」的缩写。「稳辣爽」：「<strong class="emphasis">稳</strong>单」、「赢了很<strong class="emphasis">爽</strong>」、「可以提前收米去吃香喝<strong class="emphasis">辣</strong>了」的缩写，源于足彩吧网友「盘古铁神」。
+        <br>
+        <span class="badge badge-muted">参阅</span>「<a class="anchor-link" href="#老哥稳">老哥稳</a>」。
+      </td>
+      <td>百度贴吧（足彩吧）</td>
+      <td>2016-06</td>
+    </tr>
+    <tr id="我从未见过有如此厚颜无耻之人">
+      <th scope="row">我从未见过有如此厚颜无耻之人</th>
+      <td>wǒ cóng wèi jiàn guò yǒu rú cǐ hòu yán wú chǐ zhī rén</td>
+      <td>
+        出自 1994 年版电视剧《三国演义》第 69 集中诸葛亮（由唐国强扮演）阵前怒骂王朗时的台词。电视剧中，两人在阵前对骂，诸葛亮以最后一击骂完这句话以后，王朗被活活气死，跌落马下。后来这段电视剧情节被制作成鬼畜视频传播开来，这句话也成为固定用法，用在鬼畜恶搞视频的结尾，或用来嘲讽、吐槽他人的厚颜无耻、自食其果的行为。
+        <blockquote>
+          <p>二臣贼子！你枉活七十有六，一生未立寸功，只会摇唇鼓舌，助曹为虐！一条断脊之犬，还敢在我军阵前狺狺狂吠！我从未见过有如此厚颜无耻之人！</p>
+        </blockquote>
+      </td>
+      <td>《三国演义》（1994 版）</td>
+      <td>2015-04</td>
+    </tr>
+    <tr id="我的内心几乎是崩溃的">
+      <th scope="row">我的内心几乎是崩溃的</th>
+      <td>wǒ de nèi xīn jī hū shì bēng kuì de</td>
+      <td>
+        出自 2015 年 1 月 3 日，微博 <a href="http://weibo.com/greatanny" target="_blank">@伟大的安妮</a>（陈安妮，快看世界科技有限公司 CEO，《对不起，我只过 1% 的生活》作者）在接受中央电视台采访时所说的一句话：
+        <blockquote>
+          <p>我的内心几乎是崩溃的。</p>
+        </blockquote>
+      </td>
+      <td>陈安妮</td>
+      <td>2015-01</td>
+    </tr>
+    <tr id="我伙呆">
+      <th scope="row">
+        我伙呆
+        <hr/>
+        我和小伙伴们都惊呆了
+      </th>
+      <td>wǒ huǒ dāi</td>
+      <td>
+        <span class="badge badge-primary">缩写</span>「<strong class="emphasis">我</strong>和小<strong class="emphasis">伙</strong>伴们都惊<strong class="emphasis">呆</strong>了」的缩写。
+        <hr/>
+        2013 年 6 月，一张讲述端午节由来的小学作文内容截图在微博被大量网友转发。这条微博最早于 2011 年 11 月 14 日由微博 <a href="http://weibo.com/aquarius270" target="_blank">@苏隐痕</a> 发布 <sup><a tabindex="0" role="button" data-toggle="popover" data-trigger="focus" data-container="body" data-placement="bottom" data-html="true" data-content="<a href='http://weibo.com/1670980933/xxsrecVow' target='_blank'>http://weibo.com/1670980933/xxsrecVow</a>, 微博, 2011-11-14">[1]</a></sup>，她是该学生的老师。在文中，该小学生写道：
+        <blockquote>
+          <p>传说端午节的由来是这样的传说抗战时期国民党和共产党为了抢到廷安省开始了狼烟四起的大战，国民党为了抢到廷安省不惜一切狠心互相残杀自己的战友，我军跟敌军大战了十天十夜，我军和敌军都只剩下一人了，屈原是部长，他看到这一场景哭诉的拿起还有最后一颗子弹的枪打死敌军最后一名高级指挥官，然后就喊了最一声毛主席万岁！共产党万岁！就跳河自寻短路了。听了这个以后<strong class="emphasis">我和小伙伴们都惊呆了</strong>。</p>
+        </blockquote>
+      </td>
+      <td>微博（<a href="http://weibo.com/aquarius270" target="_blank">@苏隐痕</a>）</td>
+      <td>2013-07</td>
+    </tr>
+    <tr id="我看过报道，这个人后来死了">
+      <th scope="row">我看过报道，这个人后来死了</th>
+      <td>wǒ kàn guò bào dào, zhè ge rén hòu lái sǐ le</td>
+      <td>
+        最早在贴吧、搞笑图片视频网站等贴图、GIF 论坛上流行，多见于「傻缺集锦视频」、「作死 GIF 图」等内容下的评论中。这句话最初具有一定可信度，但逐渐因为丧失证据、沉默气氛、拆台等负面作用逐渐沦为恶搞用语。
+      </td>
+      <td></td>
+      <td>2014-12</td>
+    </tr>
+    <tr id="我来组成头部">
+      <th scope="row">我来组成头部</th>
+      <td>wǒ lái zǔ chéng tóu bù</td>
+      <td>
+        来源于日本动画片《百兽王 GoLion》的中文台词，该动画片曾与另一部动画片《机甲战舰》剪辑在一起在中国播放，剪辑版又名《战神金刚》。
+      </td>
+      <td>《百兽王 GoLion》（日语：<span lang="ja" xml:lang="ja">『百獣王ゴライオン』</span>）</td>
+      <td>2011-03</td>
+    </tr>
+    <tr id="我选择死亡">
+      <th scope="row">我选择死亡</th>
+      <td>wǒ xuǎn zé sǐ wáng</td>
+      <td>
+        「我选择死亡」是《炉石传说》游戏中战士（加尔鲁什）的投降台词，由于配音和表述的喜感，后被用于表达受到了打击或者精神污染，在 B 站（哔哩哔哩弹幕视频网）中被广泛使用。亦可配合该游戏中猎人（雷克萨）的投降台词「打得好，我认输」使用，例如「╳ 得好，我选择死亡」。
+      </td>
+      <td>《炉石传说》</td>
+      <td>2015-05</td>
+    </tr>
+    <tr id="我真是日了狗了">
+      <th scope="row" class="popular">
+        我真是日了狗了
+        <hr/>
+        日了狗了
+        <hr/>
+        哔了狗了
+      </th>
+      <td>wǒ zhēn shi rì le gǒu le</td>
+      <td>
+        出自《英雄联盟》玩家、斗鱼主播「阿倪蛋糕店」（前国服第一贾克斯）的口头禅。简写成「日了狗了」，又雅化表述为「哔了狗了」，多用于形容和调侃心塞、见鬼的事情。因王思聪发表的一条「认真练习日狗大法的我」的微博而得到传播。
+        <hr/>
+        <span class="badge badge-default">亦作</span>「日了狗了」、「哔了狗了」。
+      </td>
+      <td>斗鱼（主播 <a href="http://weibo.com/u/5451013129" target="_blank">阿倪蛋糕店</a>）、王思聪</td>
+      <td>2015-03</td>
+    </tr>
+    <tr id="无图言屌">
+      <th scope="row">无图言屌</th>
+      <td>wú tú yán diǎo</td>
+      <td>
+        <span class="badge badge-primary">缩写</span>「没图你说个 JB」的缩写。
+        <hr/>
+        <span class="badge badge-default">衍生</span>「无图说锤」：「没图你说个锤子」的缩写。
+      </td>
+      <td></td>
+      <td>2013-06</td>
+    </tr>
+    <tr id="喜大普奔">
+      <th scope="row">喜大普奔</th>
+      <td>xǐ dà pǔ bēn</td>
+      <td>
+        <span class="badge badge-primary">缩写</span>「<strong class="emphasis">喜</strong>闻乐见、<strong class="emphasis">大</strong>快人心、<strong class="emphasis">普</strong>天同庆、<strong class="emphasis">奔</strong>走相告」的缩写。
+        <hr/>
+        出自中国中央电视台《新闻联播》对庆祝事件的常见用词的总结提炼，含有幸灾乐祸的贬义。
+      </td>
+      <td>中国中央电视台《新闻联播》、百度化学吧</td>
+      <td>2013-09</td>
+    </tr>
+    <tr id="喜当爹">
+      <th scope="row">喜当爹</th>
+      <td>xǐ dāng diē</td>
+      <td>
+        用来调侃男生好不容易追到女神，但是女神却怀了高富帅的孩子，无奈之下找屌丝接盘的情况。其字面上是「恭喜楼主要当爹了」的缩写，但常常出现在网友发贴炫耀自己终于追到了女神时，被其他网友调侃为喜当爹。
+        <hr/>
+        <span class="badge badge-muted">参阅</span>「<a class="anchor-link" href="#接盘侠">接盘侠</a>」。
+      </td>
+      <td>百度魔兽世界吧 或 百度贴吧（李毅吧）</td>
+      <td>2012-05</td>
+    </tr>
+    <tr id="细软跑">
+      <th scope="row">细软跑</th>
+      <td>xì ruǎn pǎo</td>
+      <td>
+        <span class="badge badge-primary">缩写</span>「收拾<strong class="emphasis">细软</strong>赶紧<strong class="emphasis">跑</strong>」的缩写。
+        <hr/>
+        用以调侃发表了某些言论后，为了防止被查水表，要赶紧躲起来。
+      </td>
+      <td>百度贴吧（李毅吧）</td>
+      <td>2013-03</td>
+    </tr>
+    <tr id="细思恐极">
+      <th scope="row">
+        细思恐极
+        <hr/>
+        西斯空寂
+        <hr/>
+        细思极恐
+      </th>
+      <td>xì sī kǒng jí</td>
+      <td>
+        <span class="badge badge-primary">缩写</span>「仔<strong class="emphasis">细思</strong>考，觉得<strong class="emphasis">恐</strong>怖至<strong class="emphasis">极</strong>」的缩写。
+        <hr/>
+        <span class="badge badge-default">亦作</span>「西斯空寂」、「细思极恐」。
+      </td>
+      <td></td>
+      <td>2013-09</td>
+    </tr>
+    <tr id="吓死宝宝了">
+      <th scope="row">吓死宝宝了</th>
+      <td>xià sǐ bǎo bǎo le</td>
+      <td>
+        「吓死（本）宝宝了」是一个「万能接梗王」感叹句，可用于表达卖萌、吐槽、傲娇、害怕等多种情绪。出处不详，最初在 2014 年的《英雄联盟》游戏、「德玛西亚贴吧」、「YY 语音频道」等地即有人使用；后在微博、B 站（哔哩哔哩弹幕视频网）以「万能回复梗」、「万能弹幕」的形式被发扬。经过金星在《金星秀》节目大力推广后爆红，最终「宝宝」被发展成一种广泛的第一人称自称，产生出类似于「饿死宝宝了」「累死宝宝了」「本宝宝要出去玩了」的用法。
+        <hr/>
+        <span class="badge badge-default">衍生</span>「宝宝婊」：指特别喜欢使用「宝宝」自称的人。
+      </td>
+      <td>《英雄联盟》、YY 语音频道</td>
+      <td>2015-07</td>
+    </tr>
+    <tr id="现已加入肯德基豪华午餐">
+      <th scope="row">现已加入肯德基豪华午餐</th>
+      <td>xiàn yǐ jiā rù kěn dé jī háo huá wǔ cān</td>
+      <td>
+        出自肯德基广告中频繁出现的广告用语，后来也在国内视频网站中频繁出现。因知名度高，逐渐被人恶搞，例如百度弱智吧的一句「小明在野外遭遇凶猛野人，现已加入肯德基豪华午餐」。现多用于在出现食物或其他奇怪物品主题的新闻或微博等条目评论中，达到恶搞、莫名喜感的效果。
+      </td>
+      <td>肯德基广告</td>
+      <td>2013-08</td>
+    </tr>
+    <tr id="翔">
+      <th scope="row">翔</th>
+      <td>xiáng</td>
+      <td>
+        即指代「屎」。百度易帝吧（一个大量黑易建联的贴吧）中有一位自称军神的易建联粉丝，与前来黑易建联的李毅吧网友舌战群儒，以其在某帖中骂出一句「我 TM 就是一坨屎！」（后已被删除）为顶峰，于是被众人进行人肉搜索出该人实名李翔，而后再被李毅吧网友演绎成公式「翔 = 屎」进行创造。再之后更创造出「吃热翔」、「黑出翔」等多个词汇，「蓝翔技校」也无辜躺枪。
+      </td>
+      <td>百度易帝吧、百度贴吧（李毅吧）</td>
+      <td>2012-02</td>
+    </tr>
+    <tr id="小鲜肉">
+      <th scope="row" class="popular">小鲜肉</th>
+      <td>xiǎo xiān ròu</td>
+      <td>
+        通常指年轻健康、拥有俊俏外表，且性格纯良、感情单纯的小男生（有时候也指代小女生）。该词一说来源于电影《阿凡达》，但尚未得到查证。
+      </td>
+      <td></td>
+      <td>2014-08</td>
+    </tr>
+    <tr id="笑cry">
+      <th scope="row">笑cry</th>
+      <td>xiào [kraɪ]</td>
+      <td>
+        即「笑哭了」，表示非常好笑，已经成为固定搭配。理论上可以构成任意多个「╳ cry」形式的词语，同类型的还有「笑尿」等。
+      </td>
+      <td></td>
+      <td>2013-10</td>
+    </tr>
+    <tr id="新技能get√">
+      <th scope="row">
+        新技能get√
+        <hr/>
+        get√
+      </th>
+      <td>xīn jì néng [ɡɛt]</td>
+      <td>
+        回帖或评论用语，表达「学会了」、「获得了新技能」的含义，一般在转发神帖或神回复时使用，指的是看到这个帖子（或微博等）后突然明白了或学会了一个（原文所隐含的）新技能。被网友误用作勾号的「√」符号实际上是一个平方根（square root）符号。
+        <hr/>
+        <span class="badge badge-default">亦作</span>「get√」。
+      </td>
+      <td></td>
+      <td>2013-10</td>
+    </tr>
+    <tr id="心塞">
+      <th scope="row" class="popular">心塞</th>
+      <td>xīn sāi</td>
+      <td>
+        出自微博段子手 <a href="http://weibo.com/u/2071502261" target="_blank">@称霸幼儿园的女人</a> 的口头禅 <sup><a tabindex="0" role="button" data-toggle="popover" data-trigger="focus" data-container="body" data-placement="bottom" data-html="true" data-content="<a href='http://roll.sohu.com/20140327/n397309782.shtml' target='_blank'>网友「称霸幼儿园的女人」秒速爆红</a>, 搜狐, 2014-03-27">[1]</a></sup>，据她本人解释为：
+        <blockquote>
+          <p>遇到让人无语的事情，郁闷，心像被塞了一样，可用在生活中所有事。</p>
+        </blockquote>
+      </td>
+      <td>微博（<a href="http://weibo.com/u/2071502261" target="_blank">@称霸幼儿园的女人</a>）</td>
+      <td>2014-03</td>
+    </tr>
+    <tr id="醒工砖">
+      <th scope="row">醒工砖</th>
+      <td>xǐng gōng zhuān</td>
+      <td>
+        <span class="badge badge-primary">缩写</span>「<strong class="emphasis">醒</strong>醒，<strong class="emphasis">工</strong>头喊你起来搬<strong class="emphasis">砖</strong>」的缩写。
+      </td>
+      <td></td>
+      <td>2012-03</td>
+    </tr>
+    <tr id="雅蠛蝶">
+      <th scope="row">雅蠛蝶</th>
+      <td>yǎ miè dié</td>
+      <td>
+        也写作「呀灭爹」或「呀咩嗲」，日语「<span lang="ja" xml:lang="ja">やめで</span>」（yamete）的音译，意为「不要啊」。由于在日本动作爱情片中频繁出现而广为传播。
+      </td>
+      <td>日语</td>
+      <td>2012-07</td>
+    </tr>
+    <tr id="颜表立">
+      <th scope="row">颜表立</th>
+      <td>yán biǎo lì</td>
+      <td>
+        <span class="badge badge-primary">缩写</span>「<strong class="emphasis">颜</strong>色代<strong class="emphasis">表</strong><strong class="emphasis">立</strong>场」的缩写。
+        <hr/>
+        在视频弹幕网站中出现和使用的一种用语。最早见于网络动画《RWBY》，RWBY 也分别代表四位女主角不同的代表颜色。因此，女主角的粉丝们通过发表不同颜色的弹幕来表示对角色的应援。该用法被普及后，在其他动漫、游戏、音乐等弹幕中也有使用。
+      </td>
+      <td></td>
+      <td>2015-02</td>
+    </tr>
+    <tr id="颜值">
+      <th scope="row" class="popular">颜值</th>
+      <td>yán zhí</td>
+      <td>
+        「颜」字在古汉语中即是「容貌」之意，现在又受日语「<span lang="ja" xml:lang="ja"><ruby>顔<rp>（</rp><rt>かお</rt><rp>）</rp></ruby></span>」（kao，脸、面貌）的影响而重新赋予了「容貌」之意，「值」指的是「程度、指数」，「颜值」指的即是「容貌（美）的程度」，用以评价人的相貌，男女皆可，有时也会用来形容动物或其他事物。
+      </td>
+      <td></td>
+      <td>2014-12</td>
+    </tr>
+    <tr id="药店碧莲">
+      <th scope="row">药店碧莲</th>
+      <td>yào diǎn bī liǎn</td>
+      <td>
+        <span class="badge badge-danger">谐音</span>「要点屄脸」（「要点逼脸」）的谐音。
+        <hr/>
+        意思是要点脸行吗。
+      </td>
+      <td></td>
+      <td>2013-07</td>
+    </tr>
+    <tr id="药电睡">
+      <th scope="row">药电睡</th>
+      <td>yào diàn shuì</td>
+      <td>
+        <span class="badge badge-primary">缩写</span>「吃<strong class="emphasis">药</strong>，<strong class="emphasis">电</strong>击，<strong class="emphasis">睡</strong>觉」的缩写。
+      </td>
+      <td>和菜头</td>
+      <td>2013-06</td>
+    </tr>
+    <tr id="爷五死">
+      <th scope="row">爷五死</th>
+      <td>yé wǔ sǐ</td>
+      <td>
+        <span class="badge badge-primary">缩写</span>「爷爷五岁就死了」的缩写。
+        <hr/>
+        出自百度二战吧网友「蓝色斯图卡」，曾声称自己的爷爷五岁的时候就在丹东被美国的飞机炸死了。后来一直匿名发帖。
+      </td>
+      <td>百度贴吧（二战吧）（蓝色斯图卡）</td>
+      <td>2012-12</td>
+    </tr>
+    <tr id="也是蛮拼的">
+      <th scope="row">也是蛮拼的</th>
+      <td>yě shì mán pīn de</td>
+      <td>
+        「也是蛮拼的」原本是曹格的一句口头禅，在《爸爸去哪儿 2》中被曹格多次无意中提起，从此流行起来。现在通常用以表达「已经很努力了」的意思，但通常不是用于褒义，而是中性或略带贬义，相当于对于如此努力却不一定能成功的行为表达一种喜闻乐见的讽刺意味。
+      </td>
+      <td>湖南卫视《爸爸去哪儿 2》、曹格</td>
+      <td>2014-07</td>
+    </tr>
+    <tr id="也是醉了">
+      <th scope="row">也是醉了</th>
+      <td>yě shì zuì le</td>
+      <td>
+        用以表达类似「无法直视」、「无语」、「无奈」的等讽刺和鄙夷的意思。出处不详，一说来自《英雄联盟》玩家用语，一说来自 DotA 解说「小乖」。
+      </td>
+      <td></td>
+      <td>2014-07</td>
+    </tr>
+    <tr id="业界良心">
+      <th scope="row">业界良心</th>
+      <td>yè jiè liáng xīn</td>
+      <td>
+        形容某个行业的某种行为得到大家认可，大家都很喜欢这种行业做法。
+      </td>
+      <td></td>
+      <td>2012-06</td>
+    </tr>
+    <tr id="油菜花">
+      <th scope="row">油菜花</th>
+      <td>yóu cài huā</td>
+      <td>
+        <span class="badge badge-danger">谐音</span>「有才华」的谐音。
+      </td>
+      <td></td>
+      <td>2013-06</td>
+    </tr>
+    <tr id="╳╳ 有毒">
+      <th scope="row">╳╳ 有毒</th>
+      <td>yǒu dú</td>
+      <td>
+        最初，「屎里有毒」一词见于马伯庸的一条微博 <sup><a tabindex="0" role="button" data-toggle="popover" data-trigger="focus" data-container="body" data-placement="bottom" data-html="true" data-content="<a href='http://weibo.com/1444865141/zpe8S2w9c' target='_blank'>http://weibo.com/1444865141/zpe8S2w9c</a>, 微博, 2013-01-03">[1]</a></sup>：「不好！屎里有毒！」，后被人制成表情包而广泛流传。2015 年开始，「╳╳ 有毒」的用法从《英雄联盟》开始流行，含义比较多变，多用于：➊ 形容某种事物或行为极具诱惑力，令人无法罢休。➋ 形容某种事物或行为容易使人倒霉。
+      </td>
+      <td>马伯庸</td>
+      <td>2015-04</td>
+    </tr>
+    <tr id="友谊的小船说翻就翻">
+      <th scope="row">友谊的小船说翻就翻</th>
+      <td>yǒu yì de xiǎo chuán shuō fān jiù fān</td>
+      <td>
+        源于动漫形象「企鹅联萌」作者 <a href="http://weibo.com/doudou8381940" target="_blank">@企鹅北游记</a> 的一则漫画 <sup><a tabindex="0" role="button" data-toggle="popover" data-trigger="focus" data-container="body" data-placement="bottom" data-html="true" data-content="<a href='http://weibo.com/3395948034/Dp8slrhNX' target='_blank'>http://weibo.com/3395948034/Dp8slrhNX</a>, 微博, 2014-04-02">[1]</a></sup>，漫画描绘了两只企鹅「东尼」和「阿德」乘坐的「友谊小船」说翻就翻的故事。
+        <hr/>
+        <span class="badge badge-default">衍生</span>「友谊的小船说翻就翻，爱情的巨轮说沉就沉」、「让我们荡起双桨，小船儿说翻就翻」：均为网友在「友谊的小船说翻就翻」基础上进行的衍生创作。
+      </td>
+      <td>微博（<a href="http://weibo.com/doudou8381940" target="_blank">@企鹅北游记</a>）</td>
+      <td>2016-04</td>
+    </tr>
+    <tr id="语死早">
+      <th scope="row">语死早</th>
+      <td>yǔ sǐ zǎo</td>
+      <td>
+        <span class="badge badge-primary">缩写</span>「<strong class="emphasis">语</strong>文老师<strong class="emphasis">死</strong>的<strong class="emphasis">早</strong>」的缩写。
+        <hr/>
+        指语文水平低下（通常指有错别字或语句有歧义）、文章语病多、表达不明确、缺乏常识等，用于讽刺一些漏洞百出的言论。类似的有「英死早」、「数死早」等。
+        <hr/>
+        <span class="badge badge-default">衍生</span>「语体教」：「语文是体育老师教的」的缩写，类似的还有「英体教」、「数体教」等。
+      </td>
+      <td>百度贴吧（李毅吧）</td>
+      <td>2013-09</td>
+    </tr>
+    <tr id="月经帖">
+      <th scope="row">月经帖</th>
+      <td>yuè jīng tiē</td>
+      <td>
+        指某话题或帖子时常有人提及、发表，如月经一样每隔一段时间便会出现。更频繁者被称作「日经帖」。
+      </td>
+      <td></td>
+      <td>2013-09</td>
+    </tr>
+    <tr id="自干五">
+      <th scope="row">自干五</th>
+      <td>zì gān wǔ</td>
+      <td>
+        <span class="badge badge-primary">缩写</span>「<strong class="emphasis">自</strong>带<strong class="emphasis">干</strong>粮<strong class="emphasis">五</strong>毛」的缩写。
+        <hr/>
+        指支持中国政府及中国共产党言论并自称立场客观并非受雇五毛者。这个词甚至被中国官方媒体大量引用，并诠释为「那些自发在网络上用理性的态度、客观的事实戳穿恶意攻击中国的谣言的爱国网友」（<a href="http://www.81.cn/jwgd/2015-02/06/content_6342770.htm" target="_blank">链接</a>）。
+      </td>
+      <td></td>
+      <td>2013-04</td>
+    </tr>
+     <tr id="炸裂">
+      <th scope="row">炸裂</th>
+      <td>zhà liè</td>
+      <td>
+        「灵魂大师」张大锤（微博 <a href="http://weibo.com/dagudu" target="_blank">@大咕咕咕鸡</a>）的常用语。是用于表示程度很深感叹词。
+      </td>
+      <td>微博（<a href="http://weibo.com/dagudu" target="_blank">@大咕咕咕鸡</a>）</td>
+      <td>2013-09</td>
+    </tr>
+    <tr id="战五渣">
+      <th scope="row">战五渣</th>
+      <td>zhàn wǔ zhā</td>
+      <td>
+        <span class="badge badge-primary">缩写</span>「<strong class="emphasis">战</strong>斗力只有 <strong class="emphasis">5</strong> 的<strong class="emphasis">渣</strong>渣」的缩写，多用于形容能力不行、战斗力低下、水平低，相当于「弱爆了」。出自鸟山明（<span lang="ja" xml:lang="ja"><ruby>鳥山<rp>（</rp><rt>とりやま</rt><rp>）</rp>明<rp>（</rp><rt>あきら</rt><rp>）</rp></ruby></span>）知名漫画作品《龙珠》（日语：<span lang="ja" xml:lang="ja">『ドラゴンボール』</span>）中拉蒂兹（<span lang="ja" xml:lang="ja">ラディッツ</span>）的台词。原文是「<span lang="ja" xml:lang="ja">戦闘力…たったの5か…ゴミめ…</span>」。
+      </td>
+      <td>鸟山明《龙珠》</td>
+      <td>2013-09</td>
+    </tr>
+    <tr id="涨姿势">
+      <th scope="row">涨姿势</th>
+      <td>zhǎng zī shì</td>
+      <td>
+        <span class="badge badge-danger">谐音</span>「长知识」的谐音。
+      </td>
+      <td></td>
+      <td>2013-12</td>
+    </tr>
+    <tr id="赵日天">
+      <th scope="row">赵日天</th>
+      <td>zhào rì tiān</td>
+      <td>
+        出自 AcFun 匿名版（A 岛）2013 年 11 月的一个讨论串 <sup><a tabindex="0" role="button" data-toggle="popover" data-trigger="focus" data-container="body" data-placement="bottom" data-html="true" data-content="<a href='http://h.nimingban.com/t/1738904' target='_blank'>http://h.nimingban.com/t/1738904</a>, AcFun 匿名版, 2013-11-06">[1]</a></sup> 所述港漫风恶搞故事的主角名称。这个故事由串主起头，由其余网友接龙完成。「赵日天」是故事中最大的反派人物，「混沌之精」赵老汉之子，具有赵老汉亿分之一的战力，自称屠遍三界，实力高深莫测。2014 年 5 月，Up 主「一大碗雪橇」将「赵日天」人物改编成歌曲视频「<a href="http://www.acfun.tv/v/ac1163766" target="_blank">老子名叫赵日天</a>」，发表于 AcFun 弹幕视频网，使得「赵日天」的梗得以扩散传播。2014 下半年，AcFun 用户将该词传播到斗鱼直播、《英雄联盟》等平台，继而传播至贴吧、微博。常见的使用方法是将「赵日天」跟随人称代词、替换名字使用，以达到具有喜感的效果，例如「我赵日天第一个表示不服」、「给我赵日天一个面子」。
+      </td>
+      <td>AcFun 匿名版</td>
+      <td>2014-05</td>
+    </tr>
+    <tr id="这破站我就服你">
+      <th scope="row">
+        这破站我就服你
+        <hr/>
+        破站服
+      </th>
+      <td>zhè pò zhàn wǒ jiù fú nǐ</td>
+      <td>
+        用以表达对作者（Up 主或楼主）的崇拜、景仰之情。
+        <hr/>
+        <span class="badge badge-primary">缩写</span>可缩写为「破站服」。
+        <br>
+        <span class="badge badge-default">亦作</span>「这破吧我就服你」（「破吧服」）。
+      </td>
+      <td></td>
+      <td>2016-08</td>
+    </tr>
+    <tr id="这腿我能玩一年">
+      <th scope="row">
+        这腿我能玩一年
+        <hr/>
+        腿玩年
+      </th>
+      <td>zhè tuǐ wǒ néng wán yī nián</td>
+      <td>
+        出处不详。动画 Fate/Stay Night 中，慎二（<span lang="ja" xml:lang="ja"><ruby>間桐<rp>（</rp><rt>まどう</rt><rp>）</rp>慎二<rp>（</rp><rt>しんじ</rt><rp>）</rp></ruby></span>）摸着凛（<span lang="ja" xml:lang="ja"><ruby>遠坂<rp>（</rp><rt>とおさか</rt><rp>）</rp>凛<rp>（</rp><rt>りん</rt><rp>）</rp></ruby></span>）的黑丝，说了「这腿我能玩一年，实在不错」这么一句台词（由哔哩哔哩弹幕视频网翻译），由此「这腿我能玩一年」被 hentai 传播使用，并简写成「腿玩年」。引申使用中，「腿」、「一年」均可替换成其他表述，例如「这腿我能玩一宿」，简写成「腿玩宿」。
+        <hr/>
+        <span class="badge badge-primary">缩写</span>可缩写为「腿玩年」。
+      </td>
+      <td>Fate/Stay Night: Unlimited Blade Works</td>
+      <td>2015-05</td>
+    </tr>
+    <tr id="支付鸨">
+      <th scope="row">支付鸨</th>
+      <td>zhī fù bǎo</td>
+      <td>
+        <span class="badge badge-danger">谐音</span>「支付宝」的谐音。
+        <hr/>
+        支付宝在 2016 年 11 月的一次更新中，灰度上线了多个「生活圈」，包括针对女大学生的「校园日记」，针对职场女性的「白领日记」，以及「海外代购」、「╳╳ 市女人圈子」、「╳╳ 市高端单身交友圈」等，对发帖、评论等功能有严格的权限门槛设置，部分生活圈只允许符合条件的女性发帖，并且芝麻信用分大于等于 750 分的用户可以进行评论。部分生活圈上线后，出现大量大尺度图片，引发大众的关注和质疑。11 月 27 日，王思聪发表微博称支付宝为「O2O 卖淫」<sup><a tabindex="0" role="button" data-toggle="popover" data-trigger="focus" data-container="body" data-placement="bottom" data-html="true" data-content="<a href='http://weibo.com/1826792401/EjvMF8zTL' target='_blank'>http://weibo.com/1826792401/EjvMF8zTL</a>, 微博, 2016-11-27">[1]</a></sup>，并配以「支付鸨」的大字配图，使该词流行起来。
+      </td>
+      <td>支付宝</td>
+      <td>2016-11</td>
+    </tr>
+    <tr id="智捉">
+      <th scope="row">智捉</th>
+      <td>zhì zhuō</td>
+      <td>
+        <span class="badge badge-primary">缩写</span>传统意义上指使用谋略将目标擒住，现在是「<strong class="emphasis">智</strong>商<strong class="emphasis">捉</strong>急」的缩写。
+      </td>
+      <td></td>
+      <td>2013-09</td>
+    </tr>
+    <tr id="重要的事情说三遍">
+      <th scope="row">重要的事情说三遍</th>
+      <td>zhòng yào de shì qíng shuō sān biàn</td>
+      <td>
+        2015 年 6 月 11 日，《盗墓笔记》季播剧官方微博 <a href="http://weibo.com/u/3292078391" target="_blank">@盗墓笔记S</a> 其发表的预告《盗墓笔记》的微博 <sup><a tabindex="0" role="button" data-toggle="popover" data-trigger="focus" data-container="body" data-placement="bottom" data-html="true" data-content="<a href='http://weibo.com/3292078391/Cm6kl9DEw' target='_blank'>http://weibo.com/3292078391/Cm6kl9DEw</a>, 微博, 2015-06-11">[1]</a></sup> 中使用了「重要的事情说三遍」这个句式，使它成为了热门。该句式可能源自逢空万太（<span lang="ja" xml:lang="ja"><ruby>逢空<rp>（</rp><rt>あいそら</rt><rp>）</rp>万太<rp>（</rp><rt>まんた</rt><rp>）</rp></ruby></span>）作品《潜行吧！奈亚子》（日语：<span lang="ja" xml:lang="ja">『這いよれ！ニャル子さん』</span>）中奈亚子（<span lang="ja" xml:lang="ja">ニャル子</span>）的口头禅：「记得说三遍，说三遍，说三遍就好了，会有神奇的效果发生哦」。另一说源自弗里德里希·尼采《善恶的彼岸》（<i>Jenseits von Gut und Böse</i>）第五章，其原文为：
+        <blockquote>
+          <p>但再说一遍，而且还要再说三遍，它们是权宜之计，权宜之计，权宜之计，掺杂着愚蠢，愚蠢，愚蠢……</p>
+        </blockquote
+      </td>
+      <td>逢空万太《潜行吧！奈亚子》，或弗里德里希·尼采《善恶的彼岸》</td>
+      <td>2015-06</td>
+    </tr>
+    <tr id="注孤生">
+      <th scope="row">注孤生</th>
+      <td>zhù gū shēng</td>
+      <td>
+        <span class="badge badge-primary">缩写</span>「<strong class="emphasis">注</strong>定<strong class="emphasis">孤</strong>独一<strong class="emphasis">生</strong>」的缩写。
+        <hr/>
+        常用于形容不解风情，不懂女生心思。它有一个对应的表情，叫做 Forever alone。「屌智硬，注孤生」：「屌丝智商是硬伤，注定孤独一生」的缩写。
+      </td>
+      <td>暴走漫画</td>
+      <td>2013-09</td>
+    </tr>
+    <tr id="专注 ╳╳ 三十年">
+      <th scope="row">专注 ╳╳ 三十年</th>
+      <td>zhuān zhù sān shí nián</td>
+      <td>
+        出自 2010 年「劲霸男装」的广告词「专注茄克三十年」，多用于讽刺他人因专注于某事物或多次进行某件事而知名。劲霸公司对该广告词每年更新，如 2014 年的版本是「专注茄克三十四年」。
+      </td>
+      <td>劲霸公司广告</td>
+      <td>2011-11</td>
+    </tr>
+    <tr id="壮哉我大 ╳╳">
+      <th scope="row">壮哉我大 ╳╳</th>
+      <td>zhuàng zāi wǒ dà</td>
+      <td>
+        出自梁启超「美哉，我少年中国，与天不老！壮哉，我中国少年，与国无疆！」有时用于赞美，有时也用于讽刺。
+      </td>
+      <td>梁启超《少年中国说》</td>
+      <td>2013-08</td>
+    </tr>
+    <tr id="嘴炮">
+      <th scope="row">嘴炮</th>
+      <td>zuǐ pào</td>
+      <td>
+        指满足发言者单方面心理需求之无意义言论，例如未提出建设性方法的空泛意见。为自嘲或评论他人言论无实质内容与沟通诚意之常用语。
+      </td>
+      <td></td>
+      <td>2014-01</td>
+    </tr>
+    <tr id="作死">
+      <th scope="row" class="popular">作死</th>
+      <td>zuò sǐ</td>
+      <td>
+        指不知轻重、不顾危险、自寻死路的「脑残」行为，在大多数语境下是调侃之意——「不作死，就不会死。」
+      </td>
+      <td></td>
+      <td>2012-07</td>
+    </tr>
+    <tr id="233">
+      <th scope="row" class="popular">233</th>
+      <td>èr sān sān</td>
+      <td>
+        回帖或评论用语，表达「赞」、「哈哈」、「捶地大笑」的含义。「233」最初源于猫扑论坛第 233 号表情（一张捶地大笑的表情），被大量使用以后，许多人开始直接使用「233」来表达捶地大笑的情绪。「233」后面的「3」可以无限叠加，用以加强语气，例如「2333333」。与「233」同样方式产生但是普及度不足的是「874」，它是猫扑论坛上一个女孩用扫把来回抽一个男生的表情。
+      </td>
+      <td>猫扑论坛</td>
+      <td>2013-03</td>
+    </tr>
+    <tr id="1024">
+      <th scope="row" class="popular">1024</th>
+      <td>yī líng èr sì</td>
+      <td>
+        回帖或评论用语，表达「赞」、「顶」的含义。「1024」最初源于草榴社区，草榴社区为避免新注册用户恶意灌水和广告行为，新手每次发表内容被限制在 1024 秒（17 分 04 秒）以内，在此之间发帖或回帖均显示为「1024」。时间长以后，帖子内以「1024」回复的数量被当作衡量该帖子受欢迎程度的重要指标，为表达对帖子内容的赞美或是楼主的抬举，许多人开始主动使用「1024」作为回帖内容。
+      </td>
+      <td>草榴社区</td>
+      <td>2013-08</td>
+    </tr>
+    <tr id="666666">
+      <th scope="row" class="popular">666666</th>
+      <td>liù liù liù liù liù liù</td>
+      <td>
+        <span class="badge badge-danger">谐音</span>「溜」的谐音。
+        <hr/>
+        「溜」在北方方言中是「犀利」、「厉害」的意思，多用于夸赞。「666」的叠用法最早见于《英雄联盟》游戏，现偶尔也用于嘲讽或自嘲。
+      </td>
+      <td>《英雄联盟》</td>
+      <td>2014-03</td>
+    </tr>
+    <tr id="duang">
+      <th scope="row">
+        duang
+        <hr/>
+        加特效
+      </th>
+      <td>duāng</td>
+      <td>
+        拟声词。出自 2004 年成龙所代言的霸王洗发水广告，在 2015 年初被用户名为「绯色toy」的用户制作成恶搞视频发表于哔哩哔哩动画，与「其实一开始我是拒绝的」同时走红。被用来形容某个动作效果、模仿某种特效配音，多指一瞬间达到的特殊效果。
+        <hr/>
+        <span class="badge badge-default">亦作</span>「加特效」。
+        <br>
+        <span class="badge badge-muted">参阅</span>「<a class="anchor-link" href="#其实一开始我是拒绝的">其实一开始我是拒绝的</a>」。
+      </td>
+      <td>霸王洗发水广告</td>
+      <td>2015-02</td>
+    </tr>
+    <tr id="prpr">
+      <th scope="row">prpr</th>
+      <td></td>
+      <td>
+        日语「<span lang="ja" xml:lang="ja">ペロペロ</span>」（peropero）或「<span lang="ja" xml:lang="ja">ぺろぺろ</span>」（peropero）的简写，意思是「舔舔」。这个词的来源据说是「舌头与口水的音效」，而有时候也会音译为「呸喽呸喽」使用。使用这个词汇是一种 hentai 的表现。
+        <hr/>
+        <span class="badge badge-muted">参阅</span>「<a class="anchor-link" href="#屏幕有点脏">屏幕有点脏</a>」。
+      </td>
+      <td><span lang="ja" xml:lang="ja">2ちゃんねる掲示板</span> / <span lang="ja" xml:lang="ja">ニコニコ動画</span></td>
+      <td>2013-09</td>
+    </tr>
+    <tr id="wuli">
+      <th scope="row">wuli</th>
+      <td></td>
+      <td>
+        韩语「<span lang="ko" xml:lang="ko">우리</span>」（uli）的罗马字。「<span lang="ko" xml:lang="ko">우리</span>」的意思是「我的、我们的」，韩语中常把很亲密的同辈、恋人、喜欢的明星称为：<span lang="ko" xml:lang="ko">우리</span> ╳╳。「wuli ╳╳」的用法在中国大陆得到广泛使用是由于黄子韬被其粉丝成为「wuli 韬韬」。这个称谓有时候也被调侃的网友写作「屋里韬」、「物理韬韬」、「屋里套套」等。
+        <hr/>
+        <span class="badge badge-default">亦作</span>「屋里」、「物理」。
+      </td>
+      <td>黄子韬</td>
+      <td>2015-08</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- TableSorter 2.25.5 -->
+<script src="//cdn.bootcss.com/jquery.tablesorter/2.25.5/js/jquery.tablesorter.min.js"></script>
+
+<!-- Page scripts -->
+<script>
+  // TableSorter
+  $(document).ready(function() {
+    $("#internet-slangs").tablesorter({
+      sortList: [[4,1]],
+      headers: {
+        2: {
+          sorter: false
+        },
+        3: {
+          sorter: false
+        }
+      }
+    });
+  });
+
+  // Counts
+  var rowCount = document.getElementsByTagName("tr").length;
+  document.getElementById("row-count").innerHTML = rowCount;
+</script>
+
+  </div>
+</article>
+
+<div class="container">
+  <div class="entry-meta">
+    <!-- Reward -->
+    <p class="reward">
+      <button type="button" id="button-reward" class="btn btn-outline-danger" data-container="body" data-toggle="popover" data-placement="top" data-html="true" data-content="<img src='/assets/images/reward.gif' width='135' height='135' title='赞赏'/>">
+        赞赏
+      </button>
+    </p>
+    <!-- Publish -->
+    
+    <!-- Referenced -->
+    
+      <div class="meta meta-referenced">
+        <h4>主要转载或引用记录</h4>
+        <ul class="list-group">
+          
+          
+  
+    
+      <a class="list-group-item list-group-item-action flex-column align-items-start" href="http://informationtimes.dayoo.com/html/2013-07/05/content_2308437.htm" target="_blank">
+        <div class="d-flex w-100 justify-content-between">
+          <h5 class="mb-0">「短语」横行网络难倒老网虫</h5>
+          
+          <small>2013-07-05</small>
+          
+        </div>
+        <small class="text-muted">信息时报</small>
+      </a>
+    
+  
+
+  
+    
+      <a class="list-group-item list-group-item-action flex-column align-items-start" href="http://www.xmnn.cn/dzbk/xmwb/20130709/08.pdf" target="_blank">
+        <div class="d-flex w-100 justify-content-between">
+          <h5 class="mb-0">网络新词「科普贴」蹿红</h5>
+          
+          <small>2013-07-09</small>
+          
+        </div>
+        <small class="text-muted">厦门晚报</small>
+      </a>
+    
+  
+
+  
+    
+      <a class="list-group-item list-group-item-action flex-column align-items-start" href="http://daily.0245.net.cn/html/2013-07/09/content_272225.htm" target="_blank">
+        <div class="d-flex w-100 justify-content-between">
+          <h5 class="mb-0">网友汇总整理网络「新词」 专家：新词不符合社会发展规律</h5>
+          
+          <small>2013-07-09</small>
+          
+        </div>
+        <small class="text-muted">抚顺日报</small>
+      </a>
+    
+  
+
+  
+    
+      <a class="list-group-item list-group-item-action flex-column align-items-start" href="http://epaper.xiancn.com/xawb/page/21/2013-07/12/17/2013071217_pdf.pdf" target="_blank">
+        <div class="d-flex w-100 justify-content-between">
+          <h5 class="mb-0">网友自造词流行网络 语言专家称这种文字游戏很难持续火爆下去</h5>
+          
+          <small>2013-07-12</small>
+          
+        </div>
+        <small class="text-muted">西安晚报</small>
+      </a>
+    
+  
+
+  
+    
+      <a class="list-group-item list-group-item-action flex-column align-items-start" href="http://dtzbd.sznews.com/html/2013-07/16/content_2552669.htm" target="_blank">
+        <div class="d-flex w-100 justify-content-between">
+          <h5 class="mb-0">2013 网络成语考核卷（上半年）</h5>
+          
+          <small>2013-07-16</small>
+          
+        </div>
+        <small class="text-muted">深圳都市报</small>
+      </a>
+    
+  
+
+  
+    
+      <a class="list-group-item list-group-item-action flex-column align-items-start" href="http://www.cqwb.com.cn/cqwb/html/2013-07/19/content_359977.htm" target="_blank">
+        <div class="d-flex w-100 justify-content-between">
+          <h5 class="mb-0">看懂网上恐龙成语</h5>
+          
+          <small>2013-07-19</small>
+          
+        </div>
+        <small class="text-muted">重庆晚报</small>
+      </a>
+    
+  
+
+  
+    
+      <a class="list-group-item list-group-item-action flex-column align-items-start" href="http://www.qikan.com.cn/article/ndyl20132930.html" target="_blank">
+        <div class="d-flex w-100 justify-content-between">
+          <h5 class="mb-0">网络成语运动 —— 虽不明，但觉厉</h5>
+          
+          <small>2013-07-31</small>
+          
+        </div>
+        <small class="text-muted">南都娱乐周刊 vol. 2013-29</small>
+      </a>
+    
+  
+
+  
+    
+      <a class="list-group-item list-group-item-action flex-column align-items-start" href="https://book.douban.com/subject/25767373/" target="_blank">
+        <div class="d-flex w-100 justify-content-between">
+          <h5 class="mb-0">网络新成语</h5>
+          
+          <small>2013-10-01</small>
+          
+        </div>
+        <small class="text-muted">读库 vol. 1305</small>
+      </a>
+    
+  
+
+  
+    
+      <a class="list-group-item list-group-item-action flex-column align-items-start" href="http://sinosphere.blogs.nytimes.com/2013/10/27/better-than-a-tweet-using-four-characters-young-chinese-create-internet-idioms-with-a-new-world-of-meaning/?_r=0" target="_blank">
+        <div class="d-flex w-100 justify-content-between">
+          <h5 class="mb-0">Better Than a Tweet? In Four Characters, a New World of Meaning</h5>
+          
+          <small>2013-10-27</small>
+          
+        </div>
+        <small class="text-muted">The New York Times</small>
+      </a>
+    
+  
+
+  
+    
+      <a class="list-group-item list-group-item-action flex-column align-items-start" href="http://www.ckxxbao.com/cankaoxiaoxidianziban/1029C542013_15.html" target="_blank">
+        <div class="d-flex w-100 justify-content-between">
+          <h5 class="mb-0">网络新语走红折射年轻人心态</h5>
+          
+          <small>2013-10-29</small>
+          
+        </div>
+        <small class="text-muted">参考消息</small>
+      </a>
+    
+  
+
+  
+    
+      <a class="list-group-item list-group-item-action flex-column align-items-start" href="http://www.cnki.com.cn/Article/CJFDTOTAL-QCSP201311081.htm" target="_blank">
+        <div class="d-flex w-100 justify-content-between">
+          <h5 class="mb-0">不明觉厉的新成语</h5>
+          
+          <small>2013-11</small>
+          
+        </div>
+        <small class="text-muted">经营者·汽车商业评论</small>
+      </a>
+    
+  
+
+  
+    
+      <a class="list-group-item list-group-item-action flex-column align-items-start" href="http://news.liao1.com/epaper/hscb/html/2013-11/17/content_351661.htm" target="_blank">
+        <div class="d-flex w-100 justify-content-between">
+          <h5 class="mb-0">「不明觉厉」等网络新词难住语文老师 语言学家：大部分胡乱拼凑不要滥用</h5>
+          
+          <small>2013-11-17</small>
+          
+        </div>
+        <small class="text-muted">华商晨报</small>
+      </a>
+    
+  
+
+  
+    
+      <a class="list-group-item list-group-item-action flex-column align-items-start" href="http://www.cnki.com.cn/Article/CJFDTOTAL-JZSB201304007.htm" target="_blank">
+        <div class="d-flex w-100 justify-content-between">
+          <h5 class="mb-0">从词汇学角度解析 2013 年网络热词的构成</h5>
+          
+          <small>2013-12</small>
+          
+        </div>
+        <small class="text-muted">焦作师范高等专科学校学报</small>
+      </a>
+    
+  
+
+  
+    
+      <a class="list-group-item list-group-item-action flex-column align-items-start" href="http://www.cnki.com.cn/Article/CJFDTOTAL-DNCB201405007.htm" target="_blank">
+        <div class="d-flex w-100 justify-content-between">
+          <h5 class="mb-0">网络新词的特点、形成机制和影响分析 —— 以 2013 年网络新词为例</h5>
+          
+          <small>2014-05</small>
+          
+        </div>
+        <small class="text-muted">东南传播</small>
+      </a>
+    
+  
+
+  
+    
+      <a class="list-group-item list-group-item-action flex-column align-items-start" href="http://cpfd.cnki.com.cn/Article/CPFDTOTAL-BDDW201505002006.htm" target="_blank">
+        <div class="d-flex w-100 justify-content-between">
+          <h5 class="mb-0">新词新语的发展状况及其规范化问题的探究 —— 基于「四字仿成语格式词」引发的思考</h5>
+          
+          <small>2015-05-09</small>
+          
+        </div>
+        <small class="text-muted">第八届北京地区对外汉语教学研究生论坛文集中</small>
+      </a>
+    
+  
+
+
+
+        </ul>
+      </div>
+    
+    <!-- Copyright -->
+    <div class="meta meta-copyright">
+      <h4>版权声明</h4>
+      <p class="text-muted">
+        <small>
+          本文版权属于太空小孩，并受法律保护。采用 Creative Commons「<a href="https://creativecommons.org/licenses/by-nc-nd/4.0" target="_blank">署名 - 非商业性使用 - 禁止演绎 4.0</a>」许可协议进行授权。此外，所有首发于知乎的作品均由<a href="http://rightknights.com" target="_blank">维权骑士</a>代理版权事宜，如需转载此类作品请先<a href="http://rightknights.com/pub/pub_author?greatAuthor=BJFF&type=0" target="_blank">访问此处</a>获得合法授权。
+        </small>
+      </p>
+    </div>
+  </div>
+  <hr/>
+  <!-- Comment -->
+  <!-- Comments -->
+<!-- <div id="disqus_thread"></div>
+<script>
+  (function() {
+    var d = document, s = d.createElement('script');
+    s.src = 'https://ispacekid.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+  })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript> -->
+
+</div>
+
+
+      <!-- Footer -->
+<footer id="footer-wrapper" class="container">
+  <div class="footer-logo">
+    <svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:cc="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+      <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="logo-system01" class="logo-system">
+          <g transform="translate(17, 8)">
+            <circle class="logo-orbit" stroke="#404040" stroke-width="0.5" cx="52" cy="56" r="52"></circle>
+            <circle class="logo-planet" fill="#404040" cx="52" cy="4" r="4"></circle>
+            <circle class="logo-gbp" cx="52" cy="108" r="4"></circle>
+          </g>
+        </g>
+        <g id="logo-system02" class="logo-system">
+          <g transform="translate(61, 60) rotate(-120) translate(-61, -60) translate(9, 4)">
+            <circle class="logo-orbit" stroke="#404040" stroke-width="0.5" cx="52" cy="56" r="52"></circle>
+            <circle class="logo-planet" fill="#404040" cx="52" cy="4" r="4"></circle>
+            <circle class="logo-gbp" cx="52" cy="108" r="4"></circle>
+          </g>
+        </g>
+        <g id="logo-system03" class="logo-system">
+          <g transform="translate(65, 68) rotate(-240) translate(-65, -68) translate(13, 12)">
+            <circle class="logo-orbit" stroke="#404040" stroke-width="0.5" cx="52" cy="56" r="52"></circle>
+            <circle class="logo-planet" fill="#404040" cx="52" cy="4" r="4"></circle>
+            <circle class="logo-gbp" cx="52" cy="108" r="4"></circle>
+          </g>
+        </g>
+        <path id="logo-spacekid" d="M33.0882861,72.6012144 C33.0882861,69.5610435 32.6082591,67.5769319 31.5842015,64.376752 C31.3281871,63.576707 30.9121637,62.5206477 30.6561493,61.8166081 C29.9841115,59.9285019 28.960054,57.368358 28.960054,55.1282321 C28.960054,52.7921007 29.4720828,51.960054 30.5281421,51.960054 C31.6802069,51.960054 32.0642285,52.9201079 32.0642285,54.7762123 L32.0642285,57.7523796 L32.9922807,57.7523796 L32.9922807,54.7442105 C32.9922807,52.5040846 32.3522447,51 30.5601439,51 C29.0880612,51 28,52.1840666 28,55.0322267 C28,57.3043544 28.6720378,59.0004498 29.7280972,62.0726225 C29.8881061,62.5526495 30.4001349,63.8647232 30.6561493,64.6647682 C31.7442105,67.8649481 32.0962303,69.4330363 32.0962303,72.7292216 C32.0962303,75.3213673 31.4561943,75.9294015 30.5281421,75.9294015 C29.5360864,75.9294015 29.0560594,75.3533691 29.0560594,73.7532792 L29.0560594,70.2970849 L28.1280072,70.2970849 L28.1280072,74.1693025 C28.1280072,75.8333961 29.0240576,76.8574537 30.5281421,76.8574537 C31.9042195,76.8574537 33.0882861,75.9614033 33.0882861,72.6012144 L33.0882861,72.6012144 Z M42.9128384,58.3604138 C42.9128384,55.1282321 42.6248222,53.0481151 42.2408006,52.3760774 C41.7927754,51.5760324 41.3127484,51.0960054 40.416698,51.0960054 L38.3685829,51.0960054 L38.3685829,76.6974447 L39.2966351,76.6974447 L39.2966351,65.5928204 C39.2966351,65.5928204 39.8726675,65.6248222 40.3846963,65.5608186 C41.2487448,65.4328114 41.8247772,64.9847862 42.2728024,64.2487448 C42.816833,63.3206927 42.9128384,61.5605937 42.9128384,58.3604138 L42.9128384,58.3604138 Z M41.9207826,58.3604138 C41.9207826,61.4325865 41.7607736,63.0646783 41.4727574,63.736716 C41.2487448,64.2487448 40.7687178,64.6327664 39.9686729,64.6647682 L39.2966351,64.6647682 L39.2966351,51.9920558 L40.0326765,51.9920558 C40.4486998,51.9920558 41.056734,52.2160684 41.376752,52.8561043 C41.6327664,53.3361313 41.9207826,55.2882411 41.9207826,58.3604138 L41.9207826,58.3604138 Z M48.1931352,70.5530992 L50.94529,70.5530992 L51.3613133,76.6974447 L52.2893655,76.6974447 L50.3372558,51.0960054 L49.3131982,51.0960054 L46.7210525,76.6974447 L47.6491046,76.6974447 L48.1931352,70.5530992 Z M50.9132882,69.7210525 L48.225137,69.7210525 L49.4732072,56.9203328 L49.7292216,53.0801169 L49.9212324,56.9523346 L50.9132882,69.7210525 Z M62.1779214,68.9530093 L61.2498693,68.9530093 L61.2498693,73.1132432 C61.2498693,75.5133781 60.4498243,75.9294015 59.6497793,75.9294015 C58.7537289,75.9294015 58.0816911,75.5133781 58.0496894,73.305254 C58.0496894,72.5692126 57.9856858,65.656824 57.9856858,63.7047142 C57.9856858,61.7846063 58.0176876,55.2882411 58.0176876,54.2001799 C58.0496894,52.760099 58.4337109,51.9280522 59.6177775,51.9280522 C60.7378405,51.9280522 61.1538639,52.6960954 61.1858657,53.9121637 C61.2178675,55.0002249 61.2178675,57.3363562 61.2178675,58.8404408 L62.1459196,58.8404408 L62.1459196,54.0721727 C62.1459196,52.3440756 61.4738819,51 59.7137829,51 C57.9216822,51 57.0576336,52.1520648 57.0576336,54.4881961 L57.0576336,63.6727124 C57.0576336,66.0408456 57.0576336,71.2891406 57.0896354,73.5932702 C57.1216372,75.7373907 57.9216822,76.8574537 59.6177775,76.8574537 C61.1858657,76.8574537 62.1779214,75.7693925 62.1779214,73.2092486 L62.1779214,68.9530093 Z M71.8744666,76.6974447 L71.8744666,75.8013943 L68.4822759,75.8013943 L68.4822759,64.1527394 L71.3624378,64.1527394 L71.3624378,63.2886909 L68.4822759,63.2886909 L68.4822759,51.9920558 L71.8424648,51.9920558 L71.8424648,51.0960054 L67.5542237,51.0960054 L67.5542237,76.6974447 L71.8744666,76.6974447 Z M82.1790459,76.6974447 L78.818857,62.4246423 L82.0190369,51.0960054 L81.1229865,51.0960054 L77.7627976,63.0966801 L77.7627976,51.0960054 L76.8347454,51.0960054 L76.8347454,76.6974447 L77.7627976,76.6974447 L77.7627976,65.7528294 L78.2748264,64.1207376 L81.2189919,76.6974447 L82.1790459,76.6974447 Z M87.8113625,76.6974447 L87.8113625,51.0960054 L86.8833103,51.0960054 L86.8833103,76.6974447 L87.8113625,76.6974447 Z M98.4999634,74.0092935 C98.563967,72.6972198 98.5319652,64.9207826 98.5319652,63.3206927 C98.5319652,61.7206027 98.563967,54.9362213 98.4999634,53.9121637 C98.3719562,52.2160684 97.5399094,51.0960054 95.7478087,51.0960054 L93.7316953,51.0960054 L93.7316953,76.6974447 L96.0358249,76.6974447 C98.0199364,76.6974447 98.4359598,75.2573637 98.4999634,74.0092935 L98.4999634,74.0092935 Z M97.5719112,74.2333061 C97.5399094,75.3853709 96.8998735,75.8013943 96.2598375,75.8013943 L94.6597475,75.8013943 L94.6597475,51.9920558 L95.8758159,51.9920558 C96.8038681,51.9920558 97.5079076,52.8561043 97.5719112,54.3601889 C97.603913,55.3202429 97.603913,62.3286369 97.603913,63.2886909 C97.603913,64.2487448 97.603913,73.2092486 97.5719112,74.2333061 L97.5719112,74.2333061 Z" fill="#404040"></path>
+      </g>
+    </svg>
+  </div>
+  <div class="footer-meta">
+    <div>
+      <p>
+        &copy; 2017 太空小孩
+        <br>
+        <small class="text-muted">Hosted by <a href="https://pages.coding.me">Coding Pages</a></small>
+      </p>
+    </div>
+    <div class="text-75">
+      <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" target="_blank">
+        <img src="/assets/images/by-nc-nd.svg" width="76" height="16" title="Creative Commons「署名 - 非商业性使用 - 禁止演绎 4.0」许可协议"/>
+      </a>
+    </div>
+  </div>
+</footer>
+
+    </div>
+    <!-- Tether 1.4.2 -->
+<script src="//cdn.bootcss.com/tether/1.4.2/js/tether.min.js"></script>
+<!-- Bootstrap 4.0.0 Alpha 6 -->
+<script src="//cdn.bootcss.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js"></script>
+<!-- FancyBox 3.2.5 -->
+<script src="//cdn.bootcss.com/fancybox/3.2.5/jquery.fancybox.min.js"></script>
+<!-- Retina.js 2.1.3 -->
+<!-- <script src="//cdn.bootcss.com/retina.js/2.1.3/retina.min.js"></script> -->
+<!-- Retina.js CORS Workaround -->
+<script src="/assets/scripts/retina.js"></script>
+<script src="/assets/scripts/script.js"></script>
+<!-- Google Analytics -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-51633773-1', 'auto');
+  ga('send', 'pageview');
+</script>
+
+  </body>
+</html>
