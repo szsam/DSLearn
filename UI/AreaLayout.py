@@ -1,12 +1,14 @@
 import Core.NN as NN
+from Utils.Preprocessor import Preprocessor
+import Utils.Meta as Meta
+from Test.predict import predicts
 
 from threading import Thread
 from time import sleep, strftime, localtime, time
+import numpy as np
 
 from PyQt5.QtWidgets import *
 
-from Test.predict import predicts
-import numpy as np
 
 class AreaLayout1(QVBoxLayout):
     def __init__(self, logger):
@@ -47,7 +49,10 @@ class AreaLayout1(QVBoxLayout):
                 raise Exception('Unknown State')
 
         def train():
-            sleep(3)
+            p = Preprocessor()
+            X, Y = p.load_data(max_len=Meta.max_string_len)
+            model = NN.train(X, Y)
+            model.save('../Model/model')
             self.log('结束训练')
             setState('ready')
 

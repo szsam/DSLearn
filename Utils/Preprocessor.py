@@ -4,8 +4,6 @@ import numpy as np
 import string
 import csv
 import pickle
-import random
-import Utils.Word2Vec as Word2Vec
 
 
 class Preprocessor:

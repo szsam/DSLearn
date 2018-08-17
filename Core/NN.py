@@ -2,7 +2,6 @@ import Utils.Meta as Meta
 
 import tflearn
 from tflearn import input_data, conv_1d, lstm, embedding
-import tensorflow as tf
 from tflearn.layers.conv import global_max_pool
 from tflearn.layers.merge_ops import merge
 from tflearn.layers.estimator import regression
