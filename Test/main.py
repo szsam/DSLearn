@@ -4,7 +4,7 @@ import Core.NN as NN
 
 
 if __name__ == "__main__":
-    words_path = "../DataSet/Friends-Corpus/friends-final-modified.txt"
+    # words_path = "../DataSet/Friends-Corpus/friends-final-modified.txt"
     # model_path = "../DataSet/GoogleNews-vectors-negative300-SLIM.bin"
 
     p = Preprocessor.Preprocessor()
