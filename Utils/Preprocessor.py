@@ -9,7 +9,7 @@ import pickle
 class Preprocessor:
 
     def __init__(self):
-        self.one_hot_dict = {}  # type: dict[str, int]
+        self.one_hot_dict: dict[str, int] = {}
         self.X = []
         self.Y = []
 

@@ -7,7 +7,7 @@ from threading import Thread
 from time import sleep, strftime, localtime, time
 import numpy as np
 
-from PyQt5.QtWidgets import *
+from PyQt5.Qt import *
 
 
 class AreaLayout1(QVBoxLayout):
@@ -16,17 +16,22 @@ class AreaLayout1(QVBoxLayout):
         self.fileDialog = QFileDialog()
         self.logger = logger
 
-        self.addLayout(self.createStepLayout1())
-        self.addLayout(self.createStepLayout2())
-        self.addLayout(self.createStepLayout3())
-        self.addLayout(self.createStepLayout4())
+        self.addWidget(self.createStepFrame1())
+        self.addWidget(self.createStepFrame2())
+        self.addWidget(self.createStepFrame3())
+        self.addWidget(self.createStepFrame4())
 
     def on_chooseFileButton_clicked(self):
-        self.trainFileName, _ = self.fileDialog.getOpenFileName()
-        self.chooseFileLabel.setText('当前已选择：' + ('...' + self.trainFileName[-15:] if self.trainFileName else '未选择导入聊天文本'))
-        self.chooseFileLabel.setToolTip(self.trainFileName)
+        self.trainFileNames, _ = self.fileDialog.getOpenFileNames(directory='../DataSet')
+        text = '当前已选择：\n'
+        text += '\n'.join([ file[-15:] for file in self.trainFileNames])
+        print(text)
+        self.chooseFileLabel.setText(text)
+        self.chooseFileLabel.setToolTip(str(self.trainFileNames))
 
-    def createStepLayout1(self):
+    def createStepFrame1(self):
+        frame = QFrame()
+        frame.setFrameShape(QFrame.StyledPanel)
         layout = QHBoxLayout()
         layout.addWidget(QLabel('STEP1:'))
         self.chooseFileLabel = QLabel('选择导入聊天文本')
@@ -35,7 +40,8 @@ class AreaLayout1(QVBoxLayout):
         chooseFileButton = QPushButton('选择文件')
         chooseFileButton.clicked.connect(self.on_chooseFileButton_clicked)
         layout.addWidget(chooseFileButton)
-        return layout
+        frame.setLayout(layout)
+        return frame
 
     def on_beginTrainButton_clicked(self):
         def setState(state):
@@ -60,7 +66,9 @@ class AreaLayout1(QVBoxLayout):
         setState('pending')
         Thread(target=train).start()
 
-    def createStepLayout2(self):
+    def createStepFrame2(self):
+        frame = QFrame()
+        frame.setFrameShape(QFrame.StyledPanel)
         layout = QHBoxLayout()
         layout.addWidget(QLabel('STEP2:'))
         layout.addWidget(QLabel('训练模型'))
@@ -68,7 +76,8 @@ class AreaLayout1(QVBoxLayout):
         self.beginTrainButton = QPushButton('开始训练')
         self.beginTrainButton.clicked.connect(self.on_beginTrainButton_clicked)
         layout.addWidget(self.beginTrainButton)
-        return layout
+        frame.setLayout(layout)
+        return frame
 
     def on_predictButton_clicked(self):
         def setState(state):
@@ -102,7 +111,9 @@ class AreaLayout1(QVBoxLayout):
         setState('pending')
         Thread(target=predict).start()
 
-    def createStepLayout3(self):
+    def createStepFrame3(self):
+        frame = QFrame()
+        frame.setFrameShape(QFrame.StyledPanel)
         layout = QHBoxLayout()
         layout.addWidget(QLabel('STEP3:'))
         self.predictEdit = QTextEdit()
@@ -114,16 +125,20 @@ class AreaLayout1(QVBoxLayout):
         self.predictButton.setSizePolicy(QSizePolicy.Fixed, QSizePolicy.Expanding)
         self.predictButton.clicked.connect(self.on_predictButton_clicked)
         layout.addWidget(self.predictButton)
-        return layout
+        frame.setLayout(layout)
+        return frame
 
-    def createStepLayout4(self):
+    def createStepFrame4(self):
+        frame = QFrame()
+        frame.setFrameShape(QFrame.StyledPanel)
         layout = QHBoxLayout()
         layout.addWidget(QLabel('STEP4:'))
         layout.addWidget(QLabel('预测结果'))
         layout.addStretch()
         self.predictResultLabel = QLabel('unknown')
         layout.addWidget(self.predictResultLabel)
-        return layout
+        frame.setLayout(layout)
+        return frame
 
     def log(self, s):
         self.logger.append(strftime('%Y-%m-%d %H:%M:%S\n', localtime(time())) + s)
