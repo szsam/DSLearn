@@ -17,15 +17,13 @@ def pad_sequence(seq, max_len, default_value=0):
 
 
 def int_words(words):
-    with open('../Model/dict.pkl', 'rb') as file:
-        one_hot_dict = pickle.load(file)
-
-    str_words = words.split()
+    with open('../Model/wordDictionary.pkl', 'rb') as file:
+        one_hot_dict = pickle.load(file).one_hot_dict
+    str_words = Helper.splitSentence(words)
     int_words=[]
     dismiss_cnt = 0
     total_cnt = 0
     for word in str_words:
-        word.strip(string.punctuation)
         total_cnt += 1
         if word not in one_hot_dict:
             int_words.append(0)
@@ -33,7 +31,7 @@ def int_words(words):
         else:
             int_words.append(one_hot_dict[word])
     int_words = pad_sequence(int_words, Meta.max_string_len)
-    Helper.debug('[WARNING] dismiss: '+str(dismiss_cnt)+'\ttotal: '+str(total_cnt))
+    Helper.debug('[WARNING] dismiss: %d\ttotal: %d' % (dismiss_cnt, total_cnt))
     return int_words
 
 

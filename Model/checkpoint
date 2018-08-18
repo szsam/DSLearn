@@ -1,2 +1,2 @@
-model_checkpoint_path: "F:\\\345\210\233\346\226\260\351\241\271\347\233\256\\workspace\\DSLearn_v0.0.4\\Model\\model"
-all_model_checkpoint_paths: "F:\\\345\210\233\346\226\260\351\241\271\347\233\256\\workspace\\DSLearn_v0.0.4\\Model\\model"
+model_checkpoint_path: "F:\\\345\210\233\346\226\260\351\241\271\347\233\256\\workspace\\DSLearn\\Model\\model"
+all_model_checkpoint_paths: "F:\\\345\210\233\346\226\260\351\241\271\347\233\256\\workspace\\DSLearn\\Model\\model"

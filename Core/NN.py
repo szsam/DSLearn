@@ -26,5 +26,5 @@ def build():
 
 def train(X,Y):
     model = build()
-    model.fit(X, Y, n_epoch=20, validation_set=0.1, show_metric=True)
+    model.fit(X, Y, n_epoch=Meta.n_epoch, validation_set=0.1, show_metric=True)
     return model

@@ -13,8 +13,10 @@ from PyQt5.Qt import *
 class AreaLayout1(QVBoxLayout):
     def __init__(self, logger):
         super().__init__()
-        self.fileDialog = QFileDialog()
+        self.trainFileNames = []
         self.logger = logger
+        self.fileDialog = QFileDialog()
+        self.loader = Preprocessor()
 
         self.addWidget(self.createStepFrame1())
         self.addWidget(self.createStepFrame2())
@@ -25,7 +27,6 @@ class AreaLayout1(QVBoxLayout):
         self.trainFileNames, _ = self.fileDialog.getOpenFileNames(directory='../DataSet')
         text = '当前已选择：\n'
         text += '\n'.join([ file[-15:] for file in self.trainFileNames])
-        print(text)
         self.chooseFileLabel.setText(text)
         self.chooseFileLabel.setToolTip(str(self.trainFileNames))
 
@@ -55,8 +56,7 @@ class AreaLayout1(QVBoxLayout):
                 raise Exception('Unknown State')
 
         def train():
-            p = Preprocessor()
-            X, Y = p.load_data(max_len=Meta.max_string_len)
+            X, Y = self.loader.load_data(self.trainFileNames, max_len=Meta.max_string_len)
             model = NN.train(X, Y)
             model.save('../Model/model')
             self.log('结束训练')
@@ -93,6 +93,7 @@ class AreaLayout1(QVBoxLayout):
         def predict():
             model = NN.build()
             model.load('../Model/model')
+            self.loader.load_dict()
 
             #sentences = [
             #    'The GREAT Billy Graham is dead. There was nobody like him! He will bemissed by Christians and all religions. A very special man.',
@@ -102,8 +103,9 @@ class AreaLayout1(QVBoxLayout):
             sentences = self.predictEdit.toPlainText().split('\n')
             results = predicts(model, sentences)
             self.log(str(results))
-            idxs = np.argmax(results, axis=1)
-            self.predictResultLabel.setText(str(idxs))
+            idxs = list(np.argmax(results, axis=1))
+            text = "\n".join([self.loader.personDictionary.lookup(idx) for idx in idxs])
+            self.predictResultLabel.setText(text)
             self.log('结束预测')
             setState('ready')
 

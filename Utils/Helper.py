@@ -1,3 +1,5 @@
+import re
+
 import termcolor
 import numpy as np
 
@@ -11,3 +13,6 @@ def analysis(data):
     mean = data.mean()
     var = np.var(data)
     return mean, var
+
+def splitSentence(sentence):
+    return re.split(r"([!\"#$%&'()*+,-./:;<=>?@[\]^_`{|}~\s+])", sentence)
