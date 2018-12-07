@@ -3,7 +3,7 @@ class WordDictionary:
     def __init__(self, max_one_hot = None):
         self.one_hot_cnt = 1
         self.max_one_hot = max_one_hot
-        self.one_hot_dict: dict[str, int] = {}
+        self.one_hot_dict = {}
 
     def addWord(self, word):
         self.one_hot_dict[word] = self.one_hot_cnt
@@ -25,7 +25,7 @@ class WordDictionary:
 
 class PersonDictionary:
     def __init__(self):
-        self.dict: dict[int, str] = {}
+        self.dict = {}
 
     def addPerson(self, idx, file):
         self.dict[idx] = file

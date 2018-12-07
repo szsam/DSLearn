@@ -1,3 +1,5 @@
+import multiprocessing
+
 import Core.NN as NN
 from Utils.Preprocessor import Preprocessor
 import Utils.Meta as Meta
@@ -7,8 +9,12 @@ from threading import Thread
 from time import sleep, strftime, localtime, time
 import numpy as np
 
-from PyQt5.Qt import *
+import socket
+import os
+from time import *
+from multiprocessing import Process,Queue
 
+from PyQt5.Qt import *
 
 class AreaLayout1(QVBoxLayout):
     def __init__(self, logger):
