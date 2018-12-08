@@ -1,7 +1,13 @@
 from queue import Queue
 from threading import Thread
+from tkinter import *
 
+import tkinter as tk
 import numpy as np
+import pymsgbox
+import easygui
+import tkinter.messagebox as msgbox
+import ctypes  # An included library with Python install.
 
 import Core.NN as NN
 import pickle
@@ -47,21 +53,21 @@ def predicts(model, sentences):
     int_sentences = [int_words(sentence) for sentence in sentences]
     return model.predict(int_sentences)
 
-def build_connection(self):
-    sk = socket.socket()
-    sk.bind((socket.gethostname(), 8080))
-    sk.listen(1)
-    while True:
-        c_sk, c_addr = sk.accept()
-        print("Connection from: " + str(c_addr))
-        print('Waiting...')
-        data = c_sk.recv(1024).decode('utf-8')
-        if not data:
-            continue
-        print('Get: ' + data)
-        sentences_queue.put(data)
-        print('sentences number: ' + str(sentences_queue.qsize()))
-    c_sk.close()
+# def build_connection(self):
+#     sk = socket.socket()
+#     sk.bind((socket.gethostname(), 8080))
+#     sk.listen(1)
+#     while True:
+#         c_sk, c_addr = sk.accept()
+#         print("Connection from: " + str(c_addr))
+#         print('Waiting...')
+#         data = c_sk.recv(1024).decode('utf-8')
+#         if not data:
+#             continue
+#         print('Get: ' + data)
+#         sentences_queue.put(data)
+#         print('sentences number: ' + str(sentences_queue.qsize()))
+#     c_sk.close()
 
 # sentences_queue = Queue()
 
@@ -93,12 +99,15 @@ if __name__ == '__main__':
         sentences.append(sentence)
         result = predicts(model, sentences)
         idxs = list(np.argmax(result, axis=1))
-        print(idxs)
-        result = "\n".join([loader.personDictionary.lookup(idx) for idx in idxs])
-        c_sk.send(result.encode('utf-8'))
-        print(result)
-        # sentences_queue.put(data)
-        # print('sentences number: ' + str(sentences_queue.qsize()))
+        if idxs[0] == 0: # 等号右边修改为0或者1
+            # ctypes.windll.user32.MessageBoxW(0, "信息'"+sentence+"'可能是诈骗信息", "警告", 0)
+            root = tk.Tk()
+            root.withdraw()
+            tk.messagebox.showwarning('警告', "信息'"+sentence+"'可能是诈骗信息")
+
+        # result = "\n".join([loader.personDictionary.lookup(idx) for idx in idxs])
+        # c_sk.send(result.encode('utf-8'))
+        # print(result)
 
     # result = predicts(model, sentences)
     # print(result)
